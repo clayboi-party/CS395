@@ -1,0 +1,2597 @@
+{
+    "https://www.haberturk.com/images/common/manifest/180x180.png": {
+        "enabled_time": 0.07149863243103027,
+        "disabled_time": 0.0049898624420166016,
+        "impact": 0.06650876998901367
+    },
+    "https://www.haberturk.com/images/common/favicon/32x32.png": {
+        "enabled_time": 0.08526301383972168,
+        "disabled_time": 0.003988981246948242,
+        "impact": 0.08127403259277344
+    },
+    "https://www.haberturk.com/images/common/favicon/16x16.png": {
+        "enabled_time": 0.07390666007995605,
+        "disabled_time": 0.00399017333984375,
+        "impact": 0.0699164867401123
+    },
+    "https://www.haberturk.com/images/common/favicon/favicon.ico?v=001": {
+        "enabled_time": 0.06752419471740723,
+        "disabled_time": 0.004689931869506836,
+        "impact": 0.06283426284790039
+    },
+    "https://www.haberturk.com/manifest.webmanifest": {
+        "enabled_time": 0.06512856483459473,
+        "disabled_time": 0.0039789676666259766,
+        "impact": 0.06114959716796875
+    },
+    "https://im.haberturk.com": {
+        "enabled_time": 0.08602380752563477,
+        "disabled_time": 0.003988981246948242,
+        "impact": 0.08203482627868652
+    },
+    "https://adsp.haberturk.com": {
+        "enabled_time": 0.08519411087036133,
+        "disabled_time": 0.01603078842163086,
+        "impact": 0.06916332244873047
+    },
+    "https://im.hthayat.com": {
+        "enabled_time": 0.11707091331481934,
+        "disabled_time": 0.017470121383666992,
+        "impact": 0.09960079193115234
+    },
+    "https://geoim.bloomberght.com": {
+        "enabled_time": 0.07929539680480957,
+        "disabled_time": 0.010294198989868164,
+        "impact": 0.0690011978149414
+    },
+    "https://im.showtv.com.tr": {
+        "enabled_time": 0.09900617599487305,
+        "disabled_time": 0.0044553279876708984,
+        "impact": 0.09455084800720215
+    },
+    "https://mo.ciner.com.tr": {
+        "enabled_time": 0.08016228675842285,
+        "disabled_time": 0.01790928840637207,
+        "impact": 0.06225299835205078
+    },
+    "https://static.criteo.net": {
+        "enabled_time": 0.21703410148620605,
+        "disabled_time": 0.05810093879699707,
+        "impact": 0.15893316268920898
+    },
+    "https://pagead2.googlesyndication.com": {
+        "enabled_time": 0.32284975051879883,
+        "disabled_time": 0.0636739730834961,
+        "impact": 0.25917577743530273
+    },
+    "https://www.google.com": {
+        "enabled_time": 1.2870876789093018,
+        "disabled_time": 0.5387823581695557,
+        "impact": 0.7483053207397461
+    },
+    "https://www.google-analytics.com": {
+        "enabled_time": 0.9406442642211914,
+        "disabled_time": 0.17442846298217773,
+        "impact": 0.7662158012390137
+    },
+    "https://www.googletagmanager.com": {
+        "enabled_time": 1.1897194385528564,
+        "disabled_time": 1.0753562450408936,
+        "impact": 0.11436319351196289
+    },
+    "https://www.googletagservices.com": {
+        "enabled_time": 0.30963706970214844,
+        "disabled_time": 0.06070065498352051,
+        "impact": 0.24893641471862793
+    },
+    "https://securepubads.g.doubleclick.net": {
+        "enabled_time": 0.36766648292541504,
+        "disabled_time": 0.12846684455871582,
+        "impact": 0.23919963836669922
+    },
+    "https://www.haberturk.com": {
+        "enabled_time": 2.2150728702545166,
+        "disabled_time": 1.0937402248382568,
+        "impact": 1.1213326454162598
+    },
+    "https://m.haberturk.com": {
+        "enabled_time": 1.4698612689971924,
+        "disabled_time": 0.887763500213623,
+        "impact": 0.5820977687835693
+    },
+    "https://www.haberturk.com/css/desktop/style.css?v=252": {
+        "enabled_time": 0.09275197982788086,
+        "disabled_time": 0.020943641662597656,
+        "impact": 0.0718083381652832
+    },
+    "https://im.haberturk.com/l/2024/06/19/ver1718799771/3696380/jpg/320x640": {
+        "enabled_time": 0.07579684257507324,
+        "disabled_time": 0.004987478256225586,
+        "impact": 0.07080936431884766
+    },
+    "https://im.haberturk.com/l/2024/06/20/ver1718831744/3696460/jpg/320x640": {
+        "enabled_time": 0.0747990608215332,
+        "disabled_time": 0.004970550537109375,
+        "impact": 0.06982851028442383
+    },
+    "https://im.haberturk.com/l/2024/06/20/ver1718863122/3696489_manset/jpg/640x640": {
+        "enabled_time": 0.07878947257995605,
+        "disabled_time": 0.004987478256225586,
+        "impact": 0.07380199432373047
+    },
+    "https://im.haberturk.com/l/2024/06/20/ver1718858199/3696483_manset/jpg/640x640": {
+        "enabled_time": 0.11069917678833008,
+        "disabled_time": 0.003990650177001953,
+        "impact": 0.10670852661132812
+    },
+    "https://www.haberturk.com/adscbg/cbglout.js": {
+        "enabled_time": 0.08477306365966797,
+        "disabled_time": 0.019945859909057617,
+        "impact": 0.06482720375061035
+    },
+    "https://www.haberturk.com/ekonomi": {
+        "enabled_time": 1.1414227485656738,
+        "disabled_time": 0.6654946804046631,
+        "impact": 0.47592806816101074
+    },
+    "https://www.haberturk.com/ekonomi/altin": {
+        "enabled_time": 1.2805767059326172,
+        "disabled_time": 0.8593721389770508,
+        "impact": 0.4212045669555664
+    },
+    "https://www.haberturk.com/ekonomi/piyasa/88-dolar": {
+        "enabled_time": 1.1459360122680664,
+        "disabled_time": 0.699129581451416,
+        "impact": 0.4468064308166504
+    },
+    "https://www.haberturk.com/ekonomi/piyasa/89-euro": {
+        "enabled_time": 2.035215377807617,
+        "disabled_time": 0.7024261951446533,
+        "impact": 1.3327891826629639
+    },
+    "https://www.haberturk.com/ekonomi/altin/610-gram-altin": {
+        "enabled_time": 1.2579243183135986,
+        "disabled_time": 0.5420193672180176,
+        "impact": 0.715904951095581
+    },
+    "https://www.haberturk.com/ekonomi/piyasa/1947-faiz": {
+        "enabled_time": 5.498244524002075,
+        "disabled_time": 0.7002918720245361,
+        "impact": 4.797952651977539
+    },
+    "https://www.haberturk.com/ekonomi/piyasa/2211-bitcoin": {
+        "enabled_time": 1.8239514827728271,
+        "disabled_time": 0.642369270324707,
+        "impact": 1.1815822124481201
+    },
+    "https://www.haberturk.com/ekonomi/borsa": {
+        "enabled_time": 1.1234691143035889,
+        "disabled_time": 0.6937470436096191,
+        "impact": 0.4297220706939697
+    },
+    "https://www.haberturk.com/canliyayin": {
+        "enabled_time": 2.4768588542938232,
+        "disabled_time": 0.8017163276672363,
+        "impact": 1.675142526626587
+    },
+    "https://www.haberturk.com/": {
+        "enabled_time": 1.5272080898284912,
+        "disabled_time": 1.0940730571746826,
+        "impact": 0.4331350326538086
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Adana/LTAG": {
+        "enabled_time": 2.2117233276367188,
+        "disabled_time": 0.5564556121826172,
+        "impact": 1.6552677154541016
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Adiyaman/LTDY": {
+        "enabled_time": 1.5000338554382324,
+        "disabled_time": 0.5137088298797607,
+        "impact": 0.9863250255584717
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Afyon/LTAF": {
+        "enabled_time": 1.4035558700561523,
+        "disabled_time": 0.6027524471282959,
+        "impact": 0.8008034229278564
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Agri/LTCB": {
+        "enabled_time": 2.0897228717803955,
+        "disabled_time": 0.6977040767669678,
+        "impact": 1.3920187950134277
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Amasya/LTT3": {
+        "enabled_time": 1.0737037658691406,
+        "disabled_time": 0.6105520725250244,
+        "impact": 0.4631516933441162
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Ankara/LTAD": {
+        "enabled_time": 1.5263891220092773,
+        "disabled_time": 0.49795055389404297,
+        "impact": 1.0284385681152344
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Antalya/TU0199": {
+        "enabled_time": 1.1148693561553955,
+        "disabled_time": 0.5971403121948242,
+        "impact": 0.5177290439605713
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Artvin/LTAT": {
+        "enabled_time": 1.9192125797271729,
+        "disabled_time": 0.6013360023498535,
+        "impact": 1.3178765773773193
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Aydin/LT03": {
+        "enabled_time": 1.7746782302856445,
+        "disabled_time": 0.5673949718475342,
+        "impact": 1.2072832584381104
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Balikesir/LTBF": {
+        "enabled_time": 1.0367586612701416,
+        "disabled_time": 0.64882493019104,
+        "impact": 0.38793373107910156
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bilecik/LTKY": {
+        "enabled_time": 1.0527901649475098,
+        "disabled_time": 0.612992525100708,
+        "impact": 0.43979763984680176
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bingol/LTT5": {
+        "enabled_time": 1.1411209106445312,
+        "disabled_time": 0.6288683414459229,
+        "impact": 0.5122525691986084
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bitlis/LT07": {
+        "enabled_time": 1.8851170539855957,
+        "disabled_time": 0.6195871829986572,
+        "impact": 1.2655298709869385
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bolu/LTT1": {
+        "enabled_time": 2.1399805545806885,
+        "disabled_time": 0.6159555912017822,
+        "impact": 1.5240249633789062
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Burdur/LT08": {
+        "enabled_time": 1.4533214569091797,
+        "disabled_time": 0.5347700119018555,
+        "impact": 0.9185514450073242
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bursa/LTBU": {
+        "enabled_time": 1.9011259078979492,
+        "disabled_time": 0.6103954315185547,
+        "impact": 1.2907304763793945
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Canakkale/LTBH": {
+        "enabled_time": 2.4015822410583496,
+        "disabled_time": 0.7634096145629883,
+        "impact": 1.6381726264953613
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Cankiri/LT09": {
+        "enabled_time": 1.1699738502502441,
+        "disabled_time": 0.5134460926055908,
+        "impact": 0.6565277576446533
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Corum/LTT2": {
+        "enabled_time": 1.2703118324279785,
+        "disabled_time": 0.5872700214385986,
+        "impact": 0.6830418109893799
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Denizli/LT10": {
+        "enabled_time": 2.1799750328063965,
+        "disabled_time": 0.6374058723449707,
+        "impact": 1.5425691604614258
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Diyarbakir/LTCC": {
+        "enabled_time": 1.069554328918457,
+        "disabled_time": 0.5881423950195312,
+        "impact": 0.4814119338989258
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Edirne/LTEI": {
+        "enabled_time": 1.805152177810669,
+        "disabled_time": 1.0197482109069824,
+        "impact": 0.7854039669036865
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Elazig/LTCA": {
+        "enabled_time": 1.8155086040496826,
+        "disabled_time": 0.6112236976623535,
+        "impact": 1.204284906387329
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Erzincan/LTCD": {
+        "enabled_time": 1.182877779006958,
+        "disabled_time": 1.6225950717926025,
+        "impact": -0.43971729278564453
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Erzurum/LTCE": {
+        "enabled_time": 1.1047899723052979,
+        "disabled_time": 0.5923552513122559,
+        "impact": 0.512434720993042
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Eskisehir/LTES": {
+        "enabled_time": 2.0459859371185303,
+        "disabled_time": 0.6187307834625244,
+        "impact": 1.4272551536560059
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Gaziantep/LTGA": {
+        "enabled_time": 1.8477439880371094,
+        "disabled_time": 0.5713145732879639,
+        "impact": 1.2764294147491455
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Giresun/LT11": {
+        "enabled_time": 1.7595257759094238,
+        "disabled_time": 0.9973156452178955,
+        "impact": 0.7622101306915283
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Gumushane/LT12": {
+        "enabled_time": 1.5137732028961182,
+        "disabled_time": 0.617570161819458,
+        "impact": 0.8962030410766602
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Hakkari/LT13": {
+        "enabled_time": 2.068354606628418,
+        "disabled_time": 0.9954018592834473,
+        "impact": 1.0729527473449707
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Hatay/LTDA": {
+        "enabled_time": 1.8389840126037598,
+        "disabled_time": 0.6151378154754639,
+        "impact": 1.223846197128296
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Isparta/LTBM": {
+        "enabled_time": 2.131657838821411,
+        "disabled_time": 0.6867079734802246,
+        "impact": 1.4449498653411865
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Mersin/LT16": {
+        "enabled_time": 1.1278924942016602,
+        "disabled_time": 0.6184396743774414,
+        "impact": 0.5094528198242188
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Istanbul/LTSI": {
+        "enabled_time": 1.2846715450286865,
+        "disabled_time": 0.5676281452178955,
+        "impact": 0.717043399810791
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Izmir/LTBL": {
+        "enabled_time": 1.2094874382019043,
+        "disabled_time": 0.6463663578033447,
+        "impact": 0.5631210803985596
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kars/LTCF": {
+        "enabled_time": 2.0761027336120605,
+        "disabled_time": 0.608217716217041,
+        "impact": 1.4678850173950195
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kastamonu/LT20": {
+        "enabled_time": 1.3931584358215332,
+        "disabled_time": 0.6537806987762451,
+        "impact": 0.7393777370452881
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kayseri/LTAU": {
+        "enabled_time": 6.202470541000366,
+        "disabled_time": 0.6351318359375,
+        "impact": 5.567338705062866
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kirklareli/LTKK": {
+        "enabled_time": 1.2499537467956543,
+        "disabled_time": 0.5807390213012695,
+        "impact": 0.6692147254943848
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kirsehir/LT22": {
+        "enabled_time": 1.7312331199645996,
+        "disabled_time": 9.567721605300903,
+        "impact": -7.836488485336304
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kocaeli/LTKO": {
+        "enabled_time": 13.719553709030151,
+        "disabled_time": 8.01049256324768,
+        "impact": 5.709061145782471
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Konya/LTAN": {
+        "enabled_time": 6.604259967803955,
+        "disabled_time": 1.8363499641418457,
+        "impact": 4.767910003662109
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kutahya/LT24": {
+        "enabled_time": 1.936821699142456,
+        "disabled_time": 0.7150890827178955,
+        "impact": 1.2217326164245605
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Malatya/LTMA": {
+        "enabled_time": 2.2489864826202393,
+        "disabled_time": 0.9813764095306396,
+        "impact": 1.2676100730895996
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Manisa/LT25": {
+        "enabled_time": 1.4445953369140625,
+        "disabled_time": 0.6043839454650879,
+        "impact": 0.8402113914489746
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kahramanmaras/LT17": {
+        "enabled_time": 1.2765865325927734,
+        "disabled_time": 0.6113705635070801,
+        "impact": 0.6652159690856934
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Mardin/LTT6": {
+        "enabled_time": 1.2043964862823486,
+        "disabled_time": 0.5265927314758301,
+        "impact": 0.6778037548065186
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Mugla/LTT8": {
+        "enabled_time": 2.3457272052764893,
+        "disabled_time": 0.6343047618865967,
+        "impact": 1.7114224433898926
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Mus/LTCK": {
+        "enabled_time": 2.205442428588867,
+        "disabled_time": 0.6452748775482178,
+        "impact": 1.5601675510406494
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Nevsehir/LTT0": {
+        "enabled_time": 2.2890243530273438,
+        "disabled_time": 1.7054393291473389,
+        "impact": 0.5835850238800049
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Nigde/LTNI": {
+        "enabled_time": 2.629966974258423,
+        "disabled_time": 0.6333069801330566,
+        "impact": 1.9966599941253662
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Ordu/LT26": {
+        "enabled_time": 1.3131537437438965,
+        "disabled_time": 0.7878944873809814,
+        "impact": 0.525259256362915
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Rize/LT28": {
+        "enabled_time": 1.8894891738891602,
+        "disabled_time": 0.773930549621582,
+        "impact": 1.1155586242675781
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Sakarya/LTSK": {
+        "enabled_time": 1.37388277053833,
+        "disabled_time": 0.5694763660430908,
+        "impact": 0.8044064044952393
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Samsun/LTSS": {
+        "enabled_time": 1.145935297012329,
+        "disabled_time": 0.625328540802002,
+        "impact": 0.5206067562103271
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Siirt/LT29": {
+        "enabled_time": 2.39970064163208,
+        "disabled_time": 0.5724692344665527,
+        "impact": 1.8272314071655273
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Sinop/LTSP": {
+        "enabled_time": 1.585240364074707,
+        "disabled_time": 0.5929572582244873,
+        "impact": 0.9922831058502197
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Sivas/LTAR": {
+        "enabled_time": 1.9777119159698486,
+        "disabled_time": 0.6921491622924805,
+        "impact": 1.2855627536773682
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Tekirdag/LTTK": {
+        "enabled_time": 1.5038337707519531,
+        "disabled_time": 0.653252124786377,
+        "impact": 0.8505816459655762
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Tokat/LTAW": {
+        "enabled_time": 1.9856905937194824,
+        "disabled_time": 0.7529861927032471,
+        "impact": 1.2327044010162354
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Trabzon/LTTR": {
+        "enabled_time": 2.14027738571167,
+        "disabled_time": 0.6941432952880859,
+        "impact": 1.446134090423584
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Tunceli/LT32": {
+        "enabled_time": 2.5882701873779297,
+        "disabled_time": 0.6881585121154785,
+        "impact": 1.9001116752624512
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Sanliurfa/LT30": {
+        "enabled_time": 1.5299100875854492,
+        "disabled_time": 0.6173510551452637,
+        "impact": 0.9125590324401855
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Usak/LTBO": {
+        "enabled_time": 1.5817556381225586,
+        "disabled_time": 0.5325751304626465,
+        "impact": 1.049180507659912
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Van/LTCI": {
+        "enabled_time": 2.0854148864746094,
+        "disabled_time": 0.6981337070465088,
+        "impact": 1.3872811794281006
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Yozgat/LTYZ": {
+        "enabled_time": 2.340823173522949,
+        "disabled_time": 0.8337702751159668,
+        "impact": 1.5070528984069824
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Zonguldak/LTZO": {
+        "enabled_time": 2.4843556880950928,
+        "disabled_time": 0.8427467346191406,
+        "impact": 1.6416089534759521
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Aksaray/LT01": {
+        "enabled_time": 1.1549687385559082,
+        "disabled_time": 0.6442761421203613,
+        "impact": 0.5106925964355469
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bayburt/LT05": {
+        "enabled_time": 2.148254632949829,
+        "disabled_time": 0.7210719585418701,
+        "impact": 1.427182674407959
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Karaman/LT19": {
+        "enabled_time": 2.4235191345214844,
+        "disabled_time": 0.6622292995452881,
+        "impact": 1.7612898349761963
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kirikkale/LT21": {
+        "enabled_time": 1.0902960300445557,
+        "disabled_time": 0.5654878616333008,
+        "impact": 0.5248081684112549
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Batman/LTCJ": {
+        "enabled_time": 1.2476634979248047,
+        "disabled_time": 0.6031227111816406,
+        "impact": 0.6445407867431641
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Sirnak/TU0265": {
+        "enabled_time": 2.3297905921936035,
+        "disabled_time": 0.5804479122161865,
+        "impact": 1.749342679977417
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Bartin/LT04": {
+        "enabled_time": 2.421560049057007,
+        "disabled_time": 0.7928793430328369,
+        "impact": 1.62868070602417
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Ardahan/LT02": {
+        "enabled_time": 2.4095559120178223,
+        "disabled_time": 0.63584303855896,
+        "impact": 1.7737128734588623
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Igdir/TU0486": {
+        "enabled_time": 1.8789756298065186,
+        "disabled_time": 0.6682136058807373,
+        "impact": 1.2107620239257812
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Yalova/TU0615": {
+        "enabled_time": 1.295656681060791,
+        "disabled_time": 0.5565111637115479,
+        "impact": 0.7391455173492432
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Karabuk/LT18": {
+        "enabled_time": 2.059492826461792,
+        "disabled_time": 0.644277811050415,
+        "impact": 1.415215015411377
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Kilis/LT23": {
+        "enabled_time": 2.0914080142974854,
+        "disabled_time": 1.0312416553497314,
+        "impact": 1.060166358947754
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Osmaniye/LT27": {
+        "enabled_time": 3.247046709060669,
+        "disabled_time": 0.6665823459625244,
+        "impact": 2.5804643630981445
+    },
+    "https://www.haberturk.com/havadurumu/Turkiye-TR/Duzce/TU0629": {
+        "enabled_time": 1.163888692855835,
+        "disabled_time": 0.554518461227417,
+        "impact": 0.609370231628418
+    },
+    "https://www.haberturk.com/gundem": {
+        "enabled_time": 1.1948044300079346,
+        "disabled_time": 0.7063395977020264,
+        "impact": 0.4884648323059082
+    },
+    "https://www.haberturk.com/dunya": {
+        "enabled_time": 1.987525224685669,
+        "disabled_time": 0.7499945163726807,
+        "impact": 1.2375307083129883
+    },
+    "https://www.haberturk.com/spor": {
+        "enabled_time": 2.252115488052368,
+        "disabled_time": 0.8597009181976318,
+        "impact": 1.3924145698547363
+    },
+    "https://www.haberturk.com/magazin": {
+        "enabled_time": 2.5063676834106445,
+        "disabled_time": 0.8088364601135254,
+        "impact": 1.6975312232971191
+    },
+    "https://hthayat.haberturk.com/": {
+        "enabled_time": 1.1489815711975098,
+        "disabled_time": 0.4936821460723877,
+        "impact": 0.6552994251251221
+    },
+    "https://www.haberturk.com/saglik": {
+        "enabled_time": 2.3566973209381104,
+        "disabled_time": 0.6323091983795166,
+        "impact": 1.7243881225585938
+    },
+    "https://www.haberturk.com/htyazarlar": {
+        "enabled_time": 1.1948051452636719,
+        "disabled_time": 0.6213395595550537,
+        "impact": 0.5734655857086182
+    },
+    "https://www.haberturk.com/ekonomi/teknoloji": {
+        "enabled_time": 1.4331679344177246,
+        "disabled_time": 0.6502606868743896,
+        "impact": 0.782907247543335
+    },
+    "https://www.haberturk.com/htgastro": {
+        "enabled_time": 1.0132911205291748,
+        "disabled_time": 0.3430819511413574,
+        "impact": 0.6702091693878174
+    },
+    "https://www.haberturk.com/video": {
+        "enabled_time": 2.081434726715088,
+        "disabled_time": 0.773930549621582,
+        "impact": 1.3075041770935059
+    },
+    "https://www.haberturk.com/stil": {
+        "enabled_time": 1.0338006019592285,
+        "disabled_time": 0.34707069396972656,
+        "impact": 0.686729907989502
+    },
+    "https://www.haberturk.com/resmi-ilanlar": {
+        "enabled_time": 0.8347675800323486,
+        "disabled_time": 0.2074437141418457,
+        "impact": 0.6273238658905029
+    },
+    "https://www.haberturk.com/son-dakika-haberi-1-i-kirmizi-3-u-turuncu-5-terorist-olduruldu-3696484": {
+        "enabled_time": 2.2569656372070312,
+        "disabled_time": 1.201786994934082,
+        "impact": 1.0551786422729492
+    },
+    "https://www.haberturk.com/10-yasindaki-berat-olmez-seker-komasi-kurbani-oldu-son-dakika-haberleri-3696487": {
+        "enabled_time": 2.1679861545562744,
+        "disabled_time": 0.7888891696929932,
+        "impact": 1.3790969848632812
+    },
+    "https://www.haberturk.com/disisleri-nden-fener-rum-patrikhanesi-ile-ilgili-iddialara-yalanlama-3696466": {
+        "enabled_time": 2.127311944961548,
+        "disabled_time": 0.7140910625457764,
+        "impact": 1.4132208824157715
+    },
+    "https://www.haberturk.com/chp-genel-baskani-ozel-birinci-parti-olamazsak-genel-baskanligi-birakacagim-guncel-haberler-3696469": {
+        "enabled_time": 2.2291524410247803,
+        "disabled_time": 0.7734842300415039,
+        "impact": 1.4556682109832764
+    },
+    "https://www.haberturk.com/basaksehir-in-uefa-konferans-ligi-ndeki-rakibi-belli-oldu-3696380-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.222057342529297,
+        "disabled_time": 0.7769219875335693,
+        "impact": 1.4451353549957275
+    },
+    "https://www.haberturk.com/isvicre-avantajini-surdurdu-3696460-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.1971240043640137,
+        "disabled_time": 1.1110291481018066,
+        "impact": 1.086094856262207
+    },
+    "https://www.haberturk.com/yaz-odemi-tatilinize-golge-dusurmesin-yaz-odeminden-hizlica-kurtulmak-icin-ipuclari-3696178?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.3706607818603516,
+        "disabled_time": 0.7230672836303711,
+        "impact": 1.6475934982299805
+    },
+    "https://www.haberturk.com/sibel-altinkaya-paris-olimpiyatlari-na-gidecek-3696457-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.0006189346313477,
+        "disabled_time": 0.7170829772949219,
+        "impact": 1.2835359573364258
+    },
+    "https://www.haberturk.com/fransiz-oyuncu-anouk-aimee-hayatini-kaybetti-magazin-haberleri-3696397-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.117337465286255,
+        "disabled_time": 0.7868950366973877,
+        "impact": 1.3304424285888672
+    },
+    "https://www.haberturk.com/abdulkerim-bardakci-turnuvada-kimseden-cekincemiz-yok-3696406-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.1712005138397217,
+        "disabled_time": 0.7210726737976074,
+        "impact": 1.4501278400421143
+    },
+    "https://www.haberturk.com/hasan-bora-nin-oglu-cem-bora-dan-ibrahim-tatlises-e-cevap-saglikli-dusunemiyor-magazin-haberleri-3696326-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.456432342529297,
+        "disabled_time": 0.7719366550445557,
+        "impact": 1.6844956874847412
+    },
+    "https://www.haberturk.com/hayat-kolaylastiran-hileler-mutfakta-zaman-kazanmak-ve-islerinizi-kolaylastirmak-icin-kullanabileceginiz-basit-tuyolar-3694280?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.4464592933654785,
+        "disabled_time": 0.8178141117095947,
+        "impact": 1.6286451816558838
+    },
+    "https://www.haberturk.com/filenin-sultanlari-nin-2024-paris-olimpiyat-oyunlari-ndaki-rakipleri-belli-oldu-3696368-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.139279365539551,
+        "disabled_time": 1.1319730281829834,
+        "impact": 1.0073063373565674
+    },
+    "https://www.haberturk.com/van-kedi-villasinin-muhtari-18-yasinda-3696344?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.4215707778930664,
+        "disabled_time": 0.697136402130127,
+        "impact": 1.7244343757629395
+    },
+    "https://www.haberturk.com/1500-yillik-roma-zirhi-restore-edildi-3696321?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.4135468006134033,
+        "disabled_time": 0.7579739093780518,
+        "impact": 1.6555728912353516
+    },
+    "https://www.haberturk.com/2024-copa-america-da-heyecan-basliyor-3696340-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.203108310699463,
+        "disabled_time": 1.2526500225067139,
+        "impact": 0.950458288192749
+    },
+    "https://www.haberturk.com/goz-yanilsamasi-yuzunden-ilk-bakista-gercekten-daha-farkli-bir-cisim-gormeye-sebep-olan-fotograflar-3693336?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.471390962600708,
+        "disabled_time": 0.7569758892059326,
+        "impact": 1.7144150733947754
+    },
+    "https://www.haberturk.com/cristiano-ronaldo-avrupa-sampiyonasi-tarihine-gecti-3696305-spor?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.211122989654541,
+        "disabled_time": 0.7220683097839355,
+        "impact": 1.4890546798706055
+    },
+    "https://www.haberturk.com/mine-tugay-kilolar-alindi-ama-verilecek-magazin-haberleri-3696290-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.5741164684295654,
+        "disabled_time": 1.4700682163238525,
+        "impact": 1.104048252105713
+    },
+    "https://www.haberturk.com/farah-zeynep-abdullah-in-gunes-tatili-magazin-haberleri-3696267-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.743818759918213,
+        "disabled_time": 0.741227388381958,
+        "impact": 2.002591371536255
+    },
+    "https://www.haberturk.com/kirli-suya-temasta-yuzucu-kulagi-tehlikesi-3696295?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.6638755798339844,
+        "disabled_time": 0.7170815467834473,
+        "impact": 1.946794033050537
+    },
+    "https://www.haberturk.com/sarikamis-in-dogasi-fotograf-tutkunlarini-agirliyor-3696272?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 1.1210124492645264,
+        "disabled_time": 0.6402873992919922,
+        "impact": 0.4807250499725342
+    },
+    "https://www.haberturk.com/bayram-tatilini-firsat-bilerek-ege-de-tatile-giden-unluler-arasinda-ozge-ozpirincci-de-bulunuyor-3696215-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.5611510276794434,
+        "disabled_time": 0.8168141841888428,
+        "impact": 1.7443368434906006
+    },
+    "https://www.haberturk.com/bulent-sakrak-tan-denizde-opucuk-3696218-magazin?utm_source=mainSmallSliderDesktop&utm_medium=mainSmallSliderDesktop&utm_campaign=mainSmallSliderDesktop": {
+        "enabled_time": 2.420527696609497,
+        "disabled_time": 0.7370307445526123,
+        "impact": 1.6834969520568848
+    },
+    "https://www.haberturk.com/soner-birden-bayram-suresince-5-kisiyi-kurtardi-o-bir-kahraman-son-haberler-3696489?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 1.3254563808441162,
+        "disabled_time": 0.7330398559570312,
+        "impact": 0.592416524887085
+    },
+    "https://www.haberturk.com/oglunun-kavga-ettigi-genci-oldurdu-uvey-baba-dehseti-3696483?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.1035664081573486,
+        "disabled_time": 0.828784704208374,
+        "impact": 1.2747817039489746
+    },
+    "https://www.haberturk.com/bugun-hava-nasil-olacak-hava-durumu-istanbul-ankara-izmir-antalya-3696480?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.3197970390319824,
+        "disabled_time": 0.7440109252929688,
+        "impact": 1.5757861137390137
+    },
+    "https://www.haberturk.com/9-yasindaki-cocugun-kahreden-olumu-guncel-haberler-3696465?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.445904493331909,
+        "disabled_time": 0.7659468650817871,
+        "impact": 1.679957628250122
+    },
+    "https://www.haberturk.com/iskocya-isvicre-maci-canli-yayin-3696328-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.180171012878418,
+        "disabled_time": 0.7948744297027588,
+        "impact": 1.3852965831756592
+    },
+    "https://www.haberturk.com/siirt-te-tarlasina-su-kuyusu-aciyordu-toprak-altinda-kalip-oldu-3696468?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 3.3051609992980957,
+        "disabled_time": 0.7340381145477295,
+        "impact": 2.571122884750366
+    },
+    "https://www.haberturk.com/israil-ordusunun-alikoydugu-gazeteci-filistinlilerin-maruz-kaldigi-iskenceyi-anlatti-3696453?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.0245864391326904,
+        "disabled_time": 0.7091035842895508,
+        "impact": 1.3154828548431396
+    },
+    "https://www.haberturk.com/ilkay-gundogan-golunu-atti-almanya-turladi-3696447-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.0305705070495605,
+        "disabled_time": 0.7250616550445557,
+        "impact": 1.3055088520050049
+    },
+    "https://www.haberturk.com/hizbullah-genel-sekreteri-nasrallahtan-guney-kibris-rum-yonetimine-israil-uyarisi-3696430?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.073340654373169,
+        "disabled_time": 1.1714766025543213,
+        "impact": 0.9018640518188477
+    },
+    "https://www.haberturk.com/guney-kore-dusuk-dogum-oranlari-nedeniyle-demografik-ulusal-acil-durum-ilan-etti-3696424?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.180170774459839,
+        "disabled_time": 0.7639544010162354,
+        "impact": 1.4162163734436035
+    },
+    "https://www.haberturk.com/tff-baskani-mehmet-buyukeksi-den-secim-sozleri-3696436-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.1502504348754883,
+        "disabled_time": 1.3394184112548828,
+        "impact": 0.8108320236206055
+    },
+    "https://www.haberturk.com/almanya-macaristan-maci-canli-yayin-3696325-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 1.9308371543884277,
+        "disabled_time": 0.7589704990386963,
+        "impact": 1.1718666553497314
+    },
+    "https://www.haberturk.com/hirvatistan-2-arnavutluk-2-mac-sonucu-3696319-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.121699810028076,
+        "disabled_time": 0.7218515872955322,
+        "impact": 1.399848222732544
+    },
+    "https://www.haberturk.com/uykunun-donguleri-iste-gece-boyunca-yasanan-4-farkli-evrede-insanlarin-yolculugu-3695881?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.2958598136901855,
+        "disabled_time": 0.8088362216949463,
+        "impact": 1.4870235919952393
+    },
+    "https://www.haberturk.com/michy-batshuayi-adim-adim-galatasaray-a-3696389-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 1.9128859043121338,
+        "disabled_time": 0.7001283168792725,
+        "impact": 1.2127575874328613
+    },
+    "https://www.haberturk.com/gazapizm-den-gulse-birsel-e-yanit-magazin-haberleri-3696317-magazin?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.3517117500305176,
+        "disabled_time": 0.7819099426269531,
+        "impact": 1.5698018074035645
+    },
+    "https://www.haberturk.com/son-dakika-haberi-tff-super-lig-de-harcama-limitlerini-acikladi-3696373-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.0904109477996826,
+        "disabled_time": 1.1369585990905762,
+        "impact": 0.9534523487091064
+    },
+    "https://www.haberturk.com/otomobilde-kampanya-bayrami-3696114-ekonomi?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.1507012844085693,
+        "disabled_time": 1.172863483428955,
+        "impact": 0.9778378009796143
+    },
+    "https://www.haberturk.com/sanliurfa-da-tarihi-sokaklarin-susu-kabaltilar-3696335?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.4680278301239014,
+        "disabled_time": 0.7928802967071533,
+        "impact": 1.675147533416748
+    },
+    "https://www.haberturk.com/dunya-basini-a-milli-takim-ve-arda-guler-i-konusuyor-turk-messi-sahnede-3696277-spor?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.078413248062134,
+        "disabled_time": 0.7589707374572754,
+        "impact": 1.3194425106048584
+    },
+    "https://www.haberturk.com/tummansetler?utm_source=mainsliderDesktop&utm_medium=mainsliderDesktop&utm_campaign=mainsliderDesktop": {
+        "enabled_time": 2.335754632949829,
+        "disabled_time": 0.7669479846954346,
+        "impact": 1.5688066482543945
+    },
+    "https://www.haberturk.com/tummansetler": {
+        "enabled_time": 1.933828592300415,
+        "disabled_time": 0.5824415683746338,
+        "impact": 1.3513870239257812
+    },
+    "https://www.haberturk.com/televizyon-icerisinde-340-bin-dolar-sorusturma-baslatildi-3696492": {
+        "enabled_time": 2.1472582817077637,
+        "disabled_time": 0.7519893646240234,
+        "impact": 1.3952689170837402
+    },
+    "https://www.haberturk.com/nigde-de-sahipsiz-kopegin-bir-kisiyi-isirdigi-mahallede-kuduz-karantinasi-baslatildi-guncel-haberler-3696462": {
+        "enabled_time": 2.087883710861206,
+        "disabled_time": 0.720073938369751,
+        "impact": 1.367809772491455
+    },
+    "https://www.haberturk.com/canli-altin-fiyatlari-son-dakika-20-haziran-2024-canli-altin-fiyatlari-ile-ceyrek-ve-gram-altin-fiyati-bugun-ne-kadar-3696482": {
+        "enabled_time": 2.0040762424468994,
+        "disabled_time": 0.721071720123291,
+        "impact": 1.2830045223236084
+    },
+    "https://www.haberturk.com/adalet-bakanligi-duyurdu-aciga-alindi-3696454": {
+        "enabled_time": 1.978708028793335,
+        "disabled_time": 0.7779197692871094,
+        "impact": 1.2007882595062256
+    },
+    "https://www.haberturk.com/son-depremler-listesi-20-haziran-2024-afad-ve-kandilli-rasathanesi-verileri-ile-en-son-nerede-ne-zaman-kac-buyuklugunde-deprem-oldu-3696486": {
+        "enabled_time": 1.3121953010559082,
+        "disabled_time": 0.6343035697937012,
+        "impact": 0.677891731262207
+    },
+    "https://www.haberturk.com/ozel-icerikler/murat-bardakci/3695819-bin-kusur-senedir-musluman-olan-millete-kurban-ogretme-zevzekligi": {
+        "enabled_time": 1.9284203052520752,
+        "disabled_time": 0.6273214817047119,
+        "impact": 1.3010988235473633
+    },
+    "https://www.haberturk.com/resmi-ilanlar/catalca-belediye-baskanligi-3695418": {
+        "enabled_time": 0.9743950366973877,
+        "disabled_time": 0.18550467491149902,
+        "impact": 0.7888903617858887
+    },
+    "https://www.haberturk.com/resmi-ilanlar/tc-cesme-asliye-hukuk-mahkemesi-3695164": {
+        "enabled_time": 1.179955244064331,
+        "disabled_time": 0.1486036777496338,
+        "impact": 1.0313515663146973
+    },
+    "https://www.haberturk.com/diri-fay-haritasi-2024-yenilenmis-mta-diri-fay-hatti-risk-haritasi-ile-fay-hatti-gecen-iller-ve-ilceler-neresi-3696003": {
+        "enabled_time": 2.804501533508301,
+        "disabled_time": 0.7021222114562988,
+        "impact": 2.102379322052002
+    },
+    "https://www.haberturk.com/yks-sonuclari-icin-gozler-osym-de-2024-universite-sinavi-yks-sonuclari-aciklandi-mi-ne-zaman-aciklanir-3695783": {
+        "enabled_time": 2.0126185417175293,
+        "disabled_time": 0.6562447547912598,
+        "impact": 1.3563737869262695
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para": {
+        "enabled_time": 1.3444044589996338,
+        "disabled_time": 0.5764603614807129,
+        "impact": 0.7679440975189209
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/bitcoin": {
+        "enabled_time": 1.5039763450622559,
+        "disabled_time": 0.5236003398895264,
+        "impact": 0.9803760051727295
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/ethereum": {
+        "enabled_time": 1.478048324584961,
+        "disabled_time": 0.5754623413085938,
+        "impact": 0.9025859832763672
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/tether": {
+        "enabled_time": 2.0434088706970215,
+        "disabled_time": 0.5385591983795166,
+        "impact": 1.5048496723175049
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/binancecoin": {
+        "enabled_time": 1.9697327613830566,
+        "disabled_time": 0.6013920307159424,
+        "impact": 1.3683407306671143
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/solana": {
+        "enabled_time": 1.7673566341400146,
+        "disabled_time": 0.5395565032958984,
+        "impact": 1.2278001308441162
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/ripple": {
+        "enabled_time": 1.586756944656372,
+        "disabled_time": 0.5674827098846436,
+        "impact": 1.0192742347717285
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/dogecoin": {
+        "enabled_time": 2.3517119884490967,
+        "disabled_time": 0.5056478977203369,
+        "impact": 1.8460640907287598
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/cardano": {
+        "enabled_time": 2.0430805683135986,
+        "disabled_time": 0.6003942489624023,
+        "impact": 1.4426863193511963
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/avalanche-2": {
+        "enabled_time": 1.3842995166778564,
+        "disabled_time": 0.592414379119873,
+        "impact": 0.7918851375579834
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/tron": {
+        "enabled_time": 2.005410671234131,
+        "disabled_time": 0.5335731506347656,
+        "impact": 1.4718375205993652
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/dai": {
+        "enabled_time": 1.3653483390808105,
+        "disabled_time": 1.3503878116607666,
+        "impact": 0.014960527420043945
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/tezos": {
+        "enabled_time": 1.4094328880310059,
+        "disabled_time": 0.5854392051696777,
+        "impact": 0.8239936828613281
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/chiliz": {
+        "enabled_time": 1.3703358173370361,
+        "disabled_time": 0.5634934902191162,
+        "impact": 0.8068423271179199
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/decentraland": {
+        "enabled_time": 1.0990610122680664,
+        "disabled_time": 0.5654873847961426,
+        "impact": 0.5335736274719238
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/trust-wallet-token": {
+        "enabled_time": 1.7293756008148193,
+        "disabled_time": 0.5664856433868408,
+        "impact": 1.1628899574279785
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/zoomer": {
+        "enabled_time": 1.1918141841888428,
+        "disabled_time": 0.591418981552124,
+        "impact": 0.6003952026367188
+    },
+    "https://www.haberturk.com/ekonomi/kripto-para/harrypotterobamapacman8inu": {
+        "enabled_time": 1.1539149284362793,
+        "disabled_time": 0.6293165683746338,
+        "impact": 0.5245983600616455
+    },
+    "https://www.haberturk.com/video/haber/izle/polisin-dur-ihtarina-uymayarak-kacan-surucu-kaza-yapinca-yakalandi/847908": {
+        "enabled_time": 2.5561647415161133,
+        "disabled_time": 1.6316375732421875,
+        "impact": 0.9245271682739258
+    },
+    "https://www.haberturk.com/video/haber/izle/cocuklarini-rehin-aldi-camdan-sarkitti/847905": {
+        "enabled_time": 2.733672857284546,
+        "disabled_time": 1.9667391777038574,
+        "impact": 0.7669336795806885
+    },
+    "https://www.haberturk.com/video/haber/izle/marmarayda-tekmeli-yumruklu-kavga/847904": {
+        "enabled_time": 2.891268491744995,
+        "disabled_time": 1.763207197189331,
+        "impact": 1.128061294555664
+    },
+    "https://www.haberturk.com/video/haber/izle/bayramin-ilk-gunu-kacan-keci-3-gunun-sonunda-bulundu/847902": {
+        "enabled_time": 2.877286195755005,
+        "disabled_time": 1.0212688446044922,
+        "impact": 1.8560173511505127
+    },
+    "https://www.haberturk.com/video/haber/izle/silivride-sicak-havadan-bunalanlar-plaja-akin-etti/847894": {
+        "enabled_time": 2.9630753993988037,
+        "disabled_time": 1.6126880645751953,
+        "impact": 1.3503873348236084
+    },
+    "https://www.haberturk.com/video/haber/izle/uskudarda-tartistigi-motosikletliyi-6-yerinden-bicaklayip-2-ayda-tahliye-oldu/847891": {
+        "enabled_time": 1.2745914459228516,
+        "disabled_time": 1.948789358139038,
+        "impact": -0.6741979122161865
+    },
+    "https://www.haberturk.com/video/haber/izle/manisa-ve-izmirde-orman-yangini/847889": {
+        "enabled_time": 2.8493800163269043,
+        "disabled_time": 0.7599694728851318,
+        "impact": 2.0894105434417725
+    },
+    "https://www.haberturk.com/video/haber/izle/mika-can-raun-olduresiye-dovuldum/847888": {
+        "enabled_time": 2.686816453933716,
+        "disabled_time": 1.5937376022338867,
+        "impact": 1.093078851699829
+    },
+    "https://www.haberturk.com/ozel-icerikler/serdar-ali-celikler-1034/3695142-ucup-kacmadan-milli-takim-i-destekleyelim": {
+        "enabled_time": 2.490341901779175,
+        "disabled_time": 0.6512305736541748,
+        "impact": 1.839111328125
+    },
+    "https://www.haberturk.com/ozel-icerikler/mehmet-ayan/3696216-arda-ya-tesekkur-samet-ten-ozur": {
+        "enabled_time": 1.2129459381103516,
+        "disabled_time": 0.62034010887146,
+        "impact": 0.5926058292388916
+    },
+    "https://www.haberturk.com/ozel-icerikler/nasuhi-gungor/3696490-tamam-mi-devam-mi": {
+        "enabled_time": 1.2113347053527832,
+        "disabled_time": 0.5485324859619141,
+        "impact": 0.6628022193908691
+    },
+    "https://www.haberturk.com/ozel-icerikler/abdurrahman-yildirim-1018/3695116-hicbir-sey-yapamiyorsan-beslen": {
+        "enabled_time": 1.2636213302612305,
+        "disabled_time": 0.6522552967071533,
+        "impact": 0.6113660335540771
+    },
+    "https://www.haberturk.com/ozel-icerikler/nagehan-alci/3696079-normallesme-ve-televizyonlar": {
+        "enabled_time": 2.6037635803222656,
+        "disabled_time": 0.6343052387237549,
+        "impact": 1.9694583415985107
+    },
+    "https://www.haberturk.com/ozel-icerikler/muharrem-sarikaya/3696270-tarimin-think-tanki": {
+        "enabled_time": 1.6048147678375244,
+        "disabled_time": 0.6382935047149658,
+        "impact": 0.9665212631225586
+    },
+    "https://www.haberturk.com/ozel-icerikler/nihal-bengisu-karaca/3693656-ebuseleme-gulen-in-itiraflari-neyi-gosterdi": {
+        "enabled_time": 1.165881633758545,
+        "disabled_time": 0.6193444728851318,
+        "impact": 0.5465371608734131
+    },
+    "https://www.haberturk.com/ozel-icerikler/oray-egin/3696461-bir-kadehten-ne-olur": {
+        "enabled_time": 3.8656880855560303,
+        "disabled_time": 0.7470026016235352,
+        "impact": 3.118685483932495
+    },
+    "https://www.haberturk.com/ozel-icerikler/guntay-simsek-1019/3695740-gokyuzune-en-yakin-5-hidrojenli-hava-araci": {
+        "enabled_time": 2.2140793800354004,
+        "disabled_time": 0.6602346897125244,
+        "impact": 1.553844690322876
+    },
+    "https://www.haberturk.com/ozel-icerikler/muhsin-kizilkaya-2291/3696242-kitapla-yeni-insan-yaratmak": {
+        "enabled_time": 1.3144848346710205,
+        "disabled_time": 0.6353011131286621,
+        "impact": 0.6791837215423584
+    },
+    "https://www.haberturk.com/ozel-icerikler/ayse-ozek-karasu/3696257-banliyo-gucu-adina-mbappe-baraji": {
+        "enabled_time": 1.2995245456695557,
+        "disabled_time": 0.5325765609741211,
+        "impact": 0.7669479846954346
+    },
+    "https://www.haberturk.com/ozel-icerikler/esin-ovet-1064/3696241-ne-kacirdim-duygusu": {
+        "enabled_time": 1.2251007556915283,
+        "disabled_time": 0.5475373268127441,
+        "impact": 0.6775634288787842
+    },
+    "https://www.haberturk.com/ozel-icerikler/mehmet-acar/3696192-paris-paris-olali-boyle-eziyet-gormedi": {
+        "enabled_time": 2.198122262954712,
+        "disabled_time": 0.5824427604675293,
+        "impact": 1.6156795024871826
+    },
+    "https://www.haberturk.com/ozel-icerikler/prof-dr-temel-yilmaz/3659403-dr-ekrem-tuncer-in-katili-kim": {
+        "enabled_time": 2.0356178283691406,
+        "disabled_time": 0.598400354385376,
+        "impact": 1.4372174739837646
+    },
+    "https://www.haberturk.com/ozel-icerikler/ibrahim-yildiz/3696230-muhtesem-iki-gol": {
+        "enabled_time": 2.2680366039276123,
+        "disabled_time": 0.6851685047149658,
+        "impact": 1.5828680992126465
+    },
+    "https://www.haberturk.com/bilgi": {
+        "enabled_time": 2.2946560382843018,
+        "disabled_time": 0.6931462287902832,
+        "impact": 1.6015098094940186
+    },
+    "https://www.haberturk.com/haziran-ayi-enflasyon-beklenti-tahmini-anketi-aciklandi-tuik-2024-haziran-ayi-enflasyon-orani-verileri-ne-zaman-aciklanacak-3695900": {
+        "enabled_time": 2.200117588043213,
+        "disabled_time": 1.1728644371032715,
+        "impact": 1.0272531509399414
+    },
+    "https://www.haberturk.com/yarin-resmi-tatil-mi-20-21-haziran-resmi-tatil-mi-20-21-haziran-da-hastane-banka-noter-borsa-avm-market-acik-mi-kapali-mi-olacak-3696387": {
+        "enabled_time": 2.1522445678710938,
+        "disabled_time": 0.7210707664489746,
+        "impact": 1.4311738014221191
+    },
+    "https://www.haberturk.com/esk-satilmayan-kurbanliklari-alacak-et-ve-sut-kurumu-satilmayan-kurbanlik-alimi-sartlari-basvuru-tarihi-ve-fiyati-3696349": {
+        "enabled_time": 2.138282060623169,
+        "disabled_time": 0.8477330207824707,
+        "impact": 1.2905490398406982
+    },
+    "https://www.haberturk.com/borsa-ve-bankalar-ne-zaman-acilacak-20-21-haziran-da-borsa-ve-bankalar-acilacak-mi-hizmet-verecek-mi-3696285": {
+        "enabled_time": 2.4125490188598633,
+        "disabled_time": 0.6961383819580078,
+        "impact": 1.7164106369018555
+    },
+    "https://www.haberturk.com/yks-sinav-gozetmen-ucreti-2024-osym-yks-sinav-gozetmen-ve-gorevli-ucreti-yatti-mi-ne-zaman-yatacak-3696228": {
+        "enabled_time": 2.1791720390319824,
+        "disabled_time": 0.7061121463775635,
+        "impact": 1.473059892654419
+    },
+    "https://www.haberturk.com/yks-sonuclari-ne-zaman-aciklanacak-erken-aciklanir-mi-universite-sinavi-2024-yks-sonuclari-sorgulama-ekrani-3696157": {
+        "enabled_time": 2.19327712059021,
+        "disabled_time": 0.7581257820129395,
+        "impact": 1.4351513385772705
+    },
+    "https://www.haberturk.com/kpss-ortaogretim-basvuru-ekrani-osym-kpss-ortaogretim-basvuru-ucreti-sartlari-ve-sinav-tarihi-2024-3696103": {
+        "enabled_time": 2.5353097915649414,
+        "disabled_time": 0.6592373847961426,
+        "impact": 1.8760724067687988
+    },
+    "https://www.haberturk.com/20-haziran-2024-persembe-toplu-tasima-ucretsiz-mi-toplu-tasima-ne-zamana-kadar-bedava-olacak-3696381": {
+        "enabled_time": 2.488882541656494,
+        "disabled_time": 0.6821761131286621,
+        "impact": 1.806706428527832
+    },
+    "https://www.haberturk.com/aile-destek-paketi-odemeleri-bu-ay-son-mu-haziran-da-bitti-mi-aile-destek-odemeleri-bir-sene-daha-uzayacak-mi-3696332": {
+        "enabled_time": 2.358692169189453,
+        "disabled_time": 0.7619626522064209,
+        "impact": 1.5967295169830322
+    },
+    "https://www.haberturk.com/asgari-ucret-ara-zammi-2024-asgari-ucrete-ara-zam-gelecek-mi-net-asgari-ucret-ne-kadar-olacak-bakan-isikhan-dan-ara-zam-aciklamasi-3695596": {
+        "enabled_time": 2.212085247039795,
+        "disabled_time": 0.6652219295501709,
+        "impact": 1.546863317489624
+    },
+    "https://www.haberturk.com/stil/cagin-en-anlamli-metaforu-patlamis-misir-beyni-3696172": {
+        "enabled_time": 0.9753954410552979,
+        "disabled_time": 0.39893293380737305,
+        "impact": 0.5764625072479248
+    },
+    "https://www.haberturk.com/stil/anksiyeteyi-nasil-lehimize-cevirebiliriz-3695953": {
+        "enabled_time": 0.9793808460235596,
+        "disabled_time": 0.39294910430908203,
+        "impact": 0.5864317417144775
+    },
+    "https://www.haberturk.com/ozel-icerikler/kadir-kaymakci/3695962-swiftonomics-bayrami": {
+        "enabled_time": 1.566145658493042,
+        "disabled_time": 0.5734660625457764,
+        "impact": 0.9926795959472656
+    },
+    "https://www.haberturk.com/stil/anneligin-karanlik-yuzu-3695479": {
+        "enabled_time": 0.970404863357544,
+        "disabled_time": 0.3610343933105469,
+        "impact": 0.6093704700469971
+    },
+    "https://www.haberturk.com/oray-egin-ile-mekanlarin-artilari-eksileri": {
+        "enabled_time": 2.517268180847168,
+        "disabled_time": 0.5864319801330566,
+        "impact": 1.9308362007141113
+    },
+    "https://www.haberturk.com/ozel-icerikler/oray-egin/3695798-caddebostan-sahilde-biraz-kafam-karisti": {
+        "enabled_time": 2.292663097381592,
+        "disabled_time": 0.6933650970458984,
+        "impact": 1.5992980003356934
+    },
+    "https://www.haberturk.com/ozel-icerikler/oray-egin/3693673-denizden-ne-ciksa-yiyenler-icin-t-bone-dahil": {
+        "enabled_time": 1.5029809474945068,
+        "disabled_time": 0.5325760841369629,
+        "impact": 0.970404863357544
+    },
+    "https://www.haberturk.com/ozel-icerikler/oray-egin/3691816-kentin-en-merak-edilen-vegan-lokantasindan-bildiriyorum": {
+        "enabled_time": 1.3015193939208984,
+        "disabled_time": 0.5944080352783203,
+        "impact": 0.7071113586425781
+    },
+    "https://www.haberturk.com/ozel-icerikler/oray-egin/3685738-en-buyuk-numarasi-hic-numara-yapmamasi": {
+        "enabled_time": 2.0546722412109375,
+        "disabled_time": 0.7180800437927246,
+        "impact": 1.336592197418213
+    },
+    "https://www.haberturk.com/kesfet": {
+        "enabled_time": 2.1552371978759766,
+        "disabled_time": 0.8457388877868652,
+        "impact": 1.3094983100891113
+    },
+    "https://www.haberturk.com/bu-rotalar-ucus-deneyiminizi-degistirecek-iste-buz-pistinden-plaja-inen-ucaklara-kadar-dunyanin-en-ilginc-7-havalimani-3694917": {
+        "enabled_time": 1.2346973419189453,
+        "disabled_time": 0.6891570091247559,
+        "impact": 0.5455403327941895
+    },
+    "https://www.haberturk.com/lezzetli-kazalar-tesadufen-kesfedilen-yiyeceklerin-ilginc-hikayeleri-sizi-sasirtacak-3695948": {
+        "enabled_time": 1.2775843143463135,
+        "disabled_time": 0.6991274356842041,
+        "impact": 0.5784568786621094
+    },
+    "https://www.haberturk.com/tuyler-urpertici-surprizler-sok-edici-anlarin-yakalandigi-18-fotograf-insanlari-sasirtti-3695181": {
+        "enabled_time": 2.818463087081909,
+        "disabled_time": 0.7120954990386963,
+        "impact": 2.106367588043213
+    },
+    "https://www.haberturk.com/sagliginizi-baharatlarla-destekleyin-iste-hangi-baharatin-hangi-hastaliga-iyi-gelebilecegi-3695560": {
+        "enabled_time": 1.3334338665008545,
+        "disabled_time": 0.6432797908782959,
+        "impact": 0.6901540756225586
+    },
+    "https://www.haberturk.com/hazine-ve-maliye-bakani-simsek-yatirimci-toplantilarina-katilmak-icin-londraya-gitti-3696300-ekonomi": {
+        "enabled_time": 2.0555028915405273,
+        "disabled_time": 1.3463995456695557,
+        "impact": 0.7091033458709717
+    },
+    "https://www.haberturk.com/ab-2025-taslak-butcesini-hazirladi-3696408-ekonomi": {
+        "enabled_time": 2.28289794921875,
+        "disabled_time": 0.7968692779541016,
+        "impact": 1.4860286712646484
+    },
+    "https://www.haberturk.com/ingiltere-de-yillik-enflasyon-mayista-yuzde-2-ye-gerileyerek-boe-nin-hedefine-ulasti-3696292-ekonomi": {
+        "enabled_time": 2.444463014602661,
+        "disabled_time": 0.7868962287902832,
+        "impact": 1.657566785812378
+    },
+    "https://www.haberturk.com/turkiye-nin-yeraltinda-bekleyen-5-bin-ton-altini-yaklasik-300-milyar-dolar-degerinde-3696385-ekonomi": {
+        "enabled_time": 2.234025239944458,
+        "disabled_time": 0.8068418502807617,
+        "impact": 1.4271833896636963
+    },
+    "https://www.haberturk.com/gunesten-elektrik-uretiminde-gunluk-rekor-3696289-ekonomi": {
+        "enabled_time": 2.030097484588623,
+        "disabled_time": 0.8133707046508789,
+        "impact": 1.2167267799377441
+    },
+    "https://www.haberturk.com/ekonomi/doviz": {
+        "enabled_time": 1.1070406436920166,
+        "disabled_time": 0.6881594657897949,
+        "impact": 0.4188811779022217
+    },
+    "https://www.haberturk.com/rahim-ak-ile-yatirimci-rehberi": {
+        "enabled_time": 2.4624156951904297,
+        "disabled_time": 1.417210340499878,
+        "impact": 1.0452053546905518
+    },
+    "https://www.haberturk.com/ahmet-kivanc-ile-sosyal-guvenlik": {
+        "enabled_time": 1.520932674407959,
+        "disabled_time": 0.5634925365447998,
+        "impact": 0.9574401378631592
+    },
+    "https://www.haberturk.com/mehmet-caliskan-ile-haftanin-portresi": {
+        "enabled_time": 2.2060999870300293,
+        "disabled_time": 1.5191597938537598,
+        "impact": 0.6869401931762695
+    },
+    "https://www.haberturk.com/mehmet-simsek-ile-guzergah": {
+        "enabled_time": 2.28688383102417,
+        "disabled_time": 0.6861655712127686,
+        "impact": 1.6007182598114014
+    },
+    "https://www.haberturk.com/mustafa-sekeroglu-ile-kriminal-dosyalar": {
+        "enabled_time": 1.4600944519042969,
+        "disabled_time": 0.5694773197174072,
+        "impact": 0.8906171321868896
+    },
+    "https://www.haberturk.com/rahim-ak-ile-borsanin-sirketleri": {
+        "enabled_time": 1.2027840614318848,
+        "disabled_time": 0.5744633674621582,
+        "impact": 0.6283206939697266
+    },
+    "https://www.haberturk.com/ceyda-erenoglu-ile-saglik": {
+        "enabled_time": 1.3882882595062256,
+        "disabled_time": 0.6263251304626465,
+        "impact": 0.7619631290435791
+    },
+    "https://www.haberturk.com/rahim-ak-ile-borsada-yatirim": {
+        "enabled_time": 2.1155009269714355,
+        "disabled_time": 1.2730803489685059,
+        "impact": 0.8424205780029297
+    },
+    "https://www.haberturk.com/aytekin-teker-ile-o-simdi-nerede": {
+        "enabled_time": 3.4667749404907227,
+        "disabled_time": 0.7988653182983398,
+        "impact": 2.667909622192383
+    },
+    "https://www.haberturk.com/unluleri-de-mest-ettiler-3696347-magazin": {
+        "enabled_time": 2.479370594024658,
+        "disabled_time": 0.7519879341125488,
+        "impact": 1.7273826599121094
+    },
+    "https://www.haberturk.com/furkan-palali-ile-ezgi-eyuboglu-tatilde-aska-geldi-sevgilisini-opmelere-doyamadi-magazin-haberleri-3696266-magazin": {
+        "enabled_time": 1.298527479171753,
+        "disabled_time": 0.660233736038208,
+        "impact": 0.6382937431335449
+    },
+    "https://www.haberturk.com/beren-saat-daha-fazla-dayanamadi-magazin-haberleri-3695992-magazin": {
+        "enabled_time": 2.2100908756256104,
+        "disabled_time": 0.8577046394348145,
+        "impact": 1.352386236190796
+    },
+    "https://www.haberturk.com/riza-kocaoglu-ile-deniz-isin-cesme-tatilde-magazin-haberleri-3696041-magazin": {
+        "enabled_time": 2.4752299785614014,
+        "disabled_time": 1.4940052032470703,
+        "impact": 0.981224775314331
+    },
+    "https://www.haberturk.com/unlulerden-tatil-pozlari-magazin-haberleri-3694905-magazin": {
+        "enabled_time": 2.418531894683838,
+        "disabled_time": 0.8726673126220703,
+        "impact": 1.5458645820617676
+    },
+    "https://www.haberturk.com/galatasaray-daikin-britt-bongaerts-i-transfer-etti-3696384-spor": {
+        "enabled_time": 1.8165297508239746,
+        "disabled_time": 0.818178653717041,
+        "impact": 0.9983510971069336
+    },
+    "https://www.haberturk.com/goztepe-nin-gozu-emirhan-ilkhan-da-3696343-spor": {
+        "enabled_time": 1.9996538162231445,
+        "disabled_time": 0.8038485050201416,
+        "impact": 1.195805311203003
+    },
+    "https://www.haberturk.com/filenin-sultanlari-milletler-ligi-finalleri-nde-sahne-aliyor-3696323-spor": {
+        "enabled_time": 1.923856258392334,
+        "disabled_time": 1.6376214027404785,
+        "impact": 0.28623485565185547
+    },
+    "https://www.haberturk.com/hasan-arat-a-polonya-dan-ustun-liyakat-madalyasi-3696293-spor": {
+        "enabled_time": 2.026580572128296,
+        "disabled_time": 0.7330384254455566,
+        "impact": 1.2935421466827393
+    },
+    "https://www.haberturk.com/ispanya-da-mansetler-arda-guler-turkiye-essiz-bir-yetenege-sahip-3696231-spor": {
+        "enabled_time": 1.2544238567352295,
+        "disabled_time": 0.7039647102355957,
+        "impact": 0.5504591464996338
+    },
+    "https://www.haberturk.com/spor/iddaa/puandurumu/1/50802": {
+        "enabled_time": 2.2993412017822266,
+        "disabled_time": 0.7310454845428467,
+        "impact": 1.5682957172393799
+    },
+    "https://www.haberturk.com/spor/iddaa/canlisonuclar": {
+        "enabled_time": 1.9078989028930664,
+        "disabled_time": 0.739022970199585,
+        "impact": 1.1688759326934814
+    },
+    "https://www.haberturk.com/spor/fikstur/1-50802": {
+        "enabled_time": 2.3906800746917725,
+        "disabled_time": 0.7756204605102539,
+        "impact": 1.6150596141815186
+    },
+    "https://www.haberturk.com/gundem/info-grafik": {
+        "enabled_time": 2.3656723499298096,
+        "disabled_time": 0.6382925510406494,
+        "impact": 1.7273797988891602
+    },
+    "https://www.haberturk.com/avrupa-futbol-sampiyonasinin-unutulmaz-enleri-3695316": {
+        "enabled_time": 2.010622978210449,
+        "disabled_time": 0.6749880313873291,
+        "impact": 1.3356349468231201
+    },
+    "https://www.haberturk.com/mayis-ayi-konut-satis-rakamlari-3694870": {
+        "enabled_time": 1.8305389881134033,
+        "disabled_time": 0.6775596141815186,
+        "impact": 1.1529793739318848
+    },
+    "https://www.haberturk.com/biri-harcar-biri-bakar-3694571": {
+        "enabled_time": 1.8799736499786377,
+        "disabled_time": 0.7051153182983398,
+        "impact": 1.1748583316802979
+    },
+    "https://www.haberturk.com/vatandas-butcesinin-ucte-ikisini-gida-kira-ve-ulasima-harciyor-3694288": {
+        "enabled_time": 1.1479308605194092,
+        "disabled_time": 0.533574104309082,
+        "impact": 0.6143567562103271
+    },
+    "https://www.haberturk.com/avrupa-parlamentosunun-45-yilda-degisen-yapisi-3693986": {
+        "enabled_time": 2.032566547393799,
+        "disabled_time": 0.6223349571228027,
+        "impact": 1.410231590270996
+    },
+    "https://www.haberturk.com/nisan-ayi-issizlik-verileri-3693886": {
+        "enabled_time": 2.1871511936187744,
+        "disabled_time": 0.6003966331481934,
+        "impact": 1.586754560470581
+    },
+    "https://www.haberturk.com/kuresel-organ-bagisi-oranlari-3692285": {
+        "enabled_time": 1.0966072082519531,
+        "disabled_time": 0.5490808486938477,
+        "impact": 0.5475263595581055
+    },
+    "https://www.haberturk.com/siber-saldirilarin-maliyeti-ne-kadar-3692009": {
+        "enabled_time": 2.0535082817077637,
+        "disabled_time": 0.5814440250396729,
+        "impact": 1.4720642566680908
+    },
+    "https://www.haberturk.com/elektrikli-otomobiller": {
+        "enabled_time": 2.254971504211426,
+        "disabled_time": 0.719078779220581,
+        "impact": 1.5358927249908447
+    },
+    "https://www.haberturk.com/56-milyar-dolarlik-restlesme-musk-in-bekledigi-odeme-onaylanmazsa-elini-tesla-nin-uzerinden-cekebili-3693290-ekonomi": {
+        "enabled_time": 2.3337597846984863,
+        "disabled_time": 1.4600956439971924,
+        "impact": 0.873664140701294
+    },
+    "https://www.haberturk.com/turkiye-de-tesla-satislari-cakildi-3692314-ekonomi": {
+        "enabled_time": 1.9647462368011475,
+        "disabled_time": 1.311492681503296,
+        "impact": 0.6532535552978516
+    },
+    "https://www.haberturk.com/ototekno-6-inci-bolumuyle-ekrana-geldi-3691664-ekonomi": {
+        "enabled_time": 2.4454612731933594,
+        "disabled_time": 0.9315099716186523,
+        "impact": 1.513951301574707
+    },
+    "https://www.haberturk.com/renault-ve-geely-den-15-milyar-euro-luk-ortaklik-3691506-ekonomi": {
+        "enabled_time": 2.353705406188965,
+        "disabled_time": 0.8397531509399414,
+        "impact": 1.5139522552490234
+    },
+    "https://www.haberturk.com/yasam": {
+        "enabled_time": 2.3018441200256348,
+        "disabled_time": 1.5224394798278809,
+        "impact": 0.7794046401977539
+    },
+    "https://www.haberturk.com/telefonunu-satip-ilk-arabasini-alan-genc-koleksiyoncu-oldu-3696313": {
+        "enabled_time": 9.145577192306519,
+        "disabled_time": 0.6392905712127686,
+        "impact": 8.50628662109375
+    },
+    "https://www.haberturk.com/dunyanin-en-kotu-kokulu-cicekleri-londra-da-botanik-bahcede-ayni-anda-acti-3696394": {
+        "enabled_time": 2.275824785232544,
+        "disabled_time": 0.675450325012207,
+        "impact": 1.600374460220337
+    },
+    "https://www.haberturk.com/acarlar-longozu-bayram-tatilinde-dogaseverlerin-ugrak-noktasi-oldu-3696366": {
+        "enabled_time": 2.339742422103882,
+        "disabled_time": 9.314092874526978,
+        "impact": -6.974350452423096
+    },
+    "https://www.haberturk.com/osmanli-ordusunun-deliler-i-kostumlerle-yasatiliyor-3696107": {
+        "enabled_time": 2.402024984359741,
+        "disabled_time": 1.4792475700378418,
+        "impact": 0.9227774143218994
+    },
+    "https://www.haberturk.com/isvicre-nin-renkli-yuzu-basel-3696063": {
+        "enabled_time": 2.271923542022705,
+        "disabled_time": 0.8337690830230713,
+        "impact": 1.4381544589996338
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari": {
+        "enabled_time": 2.4903404712677,
+        "disabled_time": 1.7322688102722168,
+        "impact": 0.7580716609954834
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari/592-gozlerin-ne-kadar-keskin": {
+        "enabled_time": 2.3237855434417725,
+        "disabled_time": 0.7230665683746338,
+        "impact": 1.6007189750671387
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari/686-dunyanin-en-zor-mantik-sorulari": {
+        "enabled_time": 2.063481330871582,
+        "disabled_time": 0.7769231796264648,
+        "impact": 1.2865581512451172
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari/820-bu-soruyu-750-bin-genc-cozemedi": {
+        "enabled_time": 1.6446025371551514,
+        "disabled_time": 0.6343033313751221,
+        "impact": 1.0102992057800293
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari/838-akrabalik-iliskilerini-irdeledigimiz-bir-soru": {
+        "enabled_time": 1.9673449993133545,
+        "disabled_time": 0.6512582302093506,
+        "impact": 1.316086769104004
+    },
+    "https://www.haberturk.com/yenimedya/akil-oyunlari/zihin-jimnastigi": {
+        "enabled_time": 2.2978551387786865,
+        "disabled_time": 0.7489914894104004,
+        "impact": 1.5488636493682861
+    },
+    "https://www.haberturk.com/bulmaca": {
+        "enabled_time": 1.9687349796295166,
+        "disabled_time": 0.6801824569702148,
+        "impact": 1.2885525226593018
+    },
+    "https://www.haberturk.com/bulmaca/cengel": {
+        "enabled_time": 2.0445332527160645,
+        "disabled_time": 1.019275188446045,
+        "impact": 1.0252580642700195
+    },
+    "https://www.haberturk.com/bulmaca/sudoku": {
+        "enabled_time": 1.1888225078582764,
+        "disabled_time": 0.630314826965332,
+        "impact": 0.5585076808929443
+    },
+    "https://www.haberturk.com/yanlis-gunes-gozlugu-secimi-sari-nokta-hastaligini-hizlandirabilir-3696310": {
+        "enabled_time": 2.4364840984344482,
+        "disabled_time": 0.7699406147003174,
+        "impact": 1.6665434837341309
+    },
+    "https://www.haberturk.com/koylerde-kanserin-risk-faktorleri-anlatiliyor-3696286": {
+        "enabled_time": 2.5067412853240967,
+        "disabled_time": 0.9035825729370117,
+        "impact": 1.603158712387085
+    },
+    "https://www.haberturk.com/noroloji-uzmanindan-6-yilda-1500-hastaya-sah-damari-tikanikligi-mudahalesi-3696377": {
+        "enabled_time": 2.3317654132843018,
+        "disabled_time": 0.8158180713653564,
+        "impact": 1.5159473419189453
+    },
+    "https://www.haberturk.com/kok-hucre-nakli-yapilan-losemi-hastasi-kucuk-nermin-taburcu-oldu-3696396": {
+        "enabled_time": 2.534224033355713,
+        "disabled_time": 0.8387565612792969,
+        "impact": 1.695467472076416
+    },
+    "https://www.haberturk.com/bu-kuruyemisler-sifa-deposu-3695493": {
+        "enabled_time": 2.2871158123016357,
+        "disabled_time": 0.8128268718719482,
+        "impact": 1.4742889404296875
+    },
+    "https://www.haberturk.com/karikatur": {
+        "enabled_time": 2.3752834796905518,
+        "disabled_time": 0.7300474643707275,
+        "impact": 1.6452360153198242
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-haziran-2024-3692326": {
+        "enabled_time": 2.1465485095977783,
+        "disabled_time": 1.6867399215698242,
+        "impact": 0.4598085880279541
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-mayis-3682328": {
+        "enabled_time": 2.3439483642578125,
+        "disabled_time": 0.7465572357177734,
+        "impact": 1.597391128540039
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-nisan-2024-3674373": {
+        "enabled_time": 1.1889879703521729,
+        "disabled_time": 0.7021234035491943,
+        "impact": 0.4868645668029785
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-mart-2024-3665486": {
+        "enabled_time": 1.3384218215942383,
+        "disabled_time": 0.6343028545379639,
+        "impact": 0.7041189670562744
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-subat-2024-3658226": {
+        "enabled_time": 2.222057580947876,
+        "disabled_time": 0.8003048896789551,
+        "impact": 1.421752691268921
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-ocak-2024-3651021": {
+        "enabled_time": 1.4487030506134033,
+        "disabled_time": 1.6705589294433594,
+        "impact": -0.22185587882995605
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-aralik-2023-3642267": {
+        "enabled_time": 2.2051126956939697,
+        "disabled_time": 1.200789213180542,
+        "impact": 1.0043234825134277
+    },
+    "https://www.haberturk.com/can-baytak-karikaturleri-kasim-3634451": {
+        "enabled_time": 2.213082790374756,
+        "disabled_time": 0.8208060264587402,
+        "impact": 1.3922767639160156
+    },
+    "https://www.haberturk.com/kultur-sanat": {
+        "enabled_time": 2.5767314434051514,
+        "disabled_time": 0.7410178184509277,
+        "impact": 1.8357136249542236
+    },
+    "https://www.haberturk.com/olga-peretyatko-harbiye-acik-hava-tiyatrosunda-3695803": {
+        "enabled_time": 2.5675675868988037,
+        "disabled_time": 0.9594337940216064,
+        "impact": 1.6081337928771973
+    },
+    "https://www.haberturk.com/burgazada-da-festival-adada-akustik-3696133": {
+        "enabled_time": 2.454720973968506,
+        "disabled_time": 0.7311928272247314,
+        "impact": 1.7235281467437744
+    },
+    "https://www.haberturk.com/madrigal-dan-bomontiada-da-akustik-konser-3696128": {
+        "enabled_time": 2.332761287689209,
+        "disabled_time": 1.5717973709106445,
+        "impact": 0.7609639167785645
+    },
+    "https://www.haberturk.com/sertab-erener-emre-kula-enka-sanat-ta-3695972": {
+        "enabled_time": 2.3194172382354736,
+        "disabled_time": 0.8597021102905273,
+        "impact": 1.4597151279449463
+    },
+    "https://www.haberturk.com/black-pumas-konseri-zorlu-psmde-3695975": {
+        "enabled_time": 1.2492990493774414,
+        "disabled_time": 0.6861650943756104,
+        "impact": 0.563133955001831
+    },
+    "https://www.haberturk.com/ototekno-8-inci-bolumuyle-ekrana-geldi-3696327-teknoloji": {
+        "enabled_time": 2.5751140117645264,
+        "disabled_time": 0.9843673706054688,
+        "impact": 1.5907466411590576
+    },
+    "https://www.haberturk.com/avrupa-birligi-nden-siber-guvenlik-hamlesi-big-tech-icin-adil-oyun-alani-3695853-teknoloji": {
+        "enabled_time": 2.4883460998535156,
+        "disabled_time": 1.5169446468353271,
+        "impact": 0.9714014530181885
+    },
+    "https://www.haberturk.com/tesla-fiyatlari-artiracak-3695026-teknoloji": {
+        "enabled_time": 2.397587776184082,
+        "disabled_time": 0.7370290756225586,
+        "impact": 1.6605587005615234
+    },
+    "https://www.haberturk.com/yapay-zekali-insan-kaynaklari-uygulamasi-kai-3694901-teknoloji": {
+        "enabled_time": 2.001077890396118,
+        "disabled_time": 0.766948938369751,
+        "impact": 1.2341289520263672
+    },
+    "https://www.haberturk.com/e-ihracatin-liderleri-tekstil-ve-ev-urunleri-3694897-teknoloji": {
+        "enabled_time": 2.4414703845977783,
+        "disabled_time": 0.7978684902191162,
+        "impact": 1.643601894378662
+    },
+    "https://www.haberturk.com/htgastro/seyahat/9-gunluk-bayram-tatili-icin-9-alternatif-3674835": {
+        "enabled_time": 1.1977970600128174,
+        "disabled_time": 0.3530557155609131,
+        "impact": 0.8447413444519043
+    },
+    "https://www.haberturk.com/htgastro/seyahat/7-gun-24-saat-trende-yasiyor-3695721": {
+        "enabled_time": 1.8761744499206543,
+        "disabled_time": 0.7918829917907715,
+        "impact": 1.0842914581298828
+    },
+    "https://www.haberturk.com/htgastro/kesfet/bayramda-en-sik-yapilan-8-hata-3695669": {
+        "enabled_time": 1.3094992637634277,
+        "disabled_time": 0.3480689525604248,
+        "impact": 0.9614303112030029
+    },
+    "https://www.haberturk.com/htgastro/seyahat/karadaga-gitmek-icin-5-neden-3673239": {
+        "enabled_time": 1.372330665588379,
+        "disabled_time": 0.3949434757232666,
+        "impact": 0.9773871898651123
+    },
+    "https://www.haberturk.com/htgastro/lezzetli-hatlar/saglikli-bayram-tatlilari-icin-5-puf-nokta-3674239": {
+        "enabled_time": 1.3693389892578125,
+        "disabled_time": 0.3480679988861084,
+        "impact": 1.021270990371704
+    },
+    "https://www.haberturk.com/htgastro/seyahat/bayramda-istanbul-da-misiniz-3675396": {
+        "enabled_time": 1.6984574794769287,
+        "disabled_time": 0.5505275726318359,
+        "impact": 1.1479299068450928
+    },
+    "https://www.haberturk.com/htgastro/kesfet/seker-bezelyenin-icadi-3693352": {
+        "enabled_time": 1.2406821250915527,
+        "disabled_time": 0.6662185192108154,
+        "impact": 0.5744636058807373
+    },
+    "https://www.haberturk.com/htgastro/lezzetli-hatlar/vegan-beslenmek-ve-yeni-mekan-telezzuz-3691016": {
+        "enabled_time": 1.09507155418396,
+        "disabled_time": 0.35405445098876953,
+        "impact": 0.7410171031951904
+    },
+    "https://www.haberturk.com/htgastro/seyahat/glamping-tatili-hesapli-mi-3691828": {
+        "enabled_time": 1.6037123203277588,
+        "disabled_time": 0.6123621463775635,
+        "impact": 0.9913501739501953
+    },
+    "https://www.haberturk.com/htgastro/lezzetli-hatlar/esmer-ekmekle-daha-mi-kolay-kilo-veriliyor-3618917": {
+        "enabled_time": 8.90699315071106,
+        "disabled_time": 0.3919527530670166,
+        "impact": 8.515040397644043
+    },
+    "https://www.haberturk.com/noam-chomsky-tedavi-gordugu-hastaneden-taburcu-edildi-3696296": {
+        "enabled_time": 2.0924582481384277,
+        "disabled_time": 1.2187399864196777,
+        "impact": 0.87371826171875
+    },
+    "https://www.haberturk.com/israil-kurban-bayrami-nin-son-gununde-de-gazze-ye-yogun-saldirilar-duzenledi-3696314": {
+        "enabled_time": 1.3264544010162354,
+        "disabled_time": 0.6861655712127686,
+        "impact": 0.6402888298034668
+    },
+    "https://www.haberturk.com/sudan-ve-bae-daimi-temsilcileri-bmgk-da-tartisti-3696249": {
+        "enabled_time": 2.3896100521087646,
+        "disabled_time": 0.740023136138916,
+        "impact": 1.6495869159698486
+    },
+    "https://www.haberturk.com/azerbaycan-dan-fransa-ya-tepki-ermenistan-a-olumcul-silahlar-saglamak-provokatif-bir-faaliyet-3696199": {
+        "enabled_time": 2.197125196456909,
+        "disabled_time": 0.754981517791748,
+        "impact": 1.4421436786651611
+    },
+    "https://www.haberturk.com/kolombiya-cumhurbaskani-petro-dan-israil-halkina-gazze-cagrisi-3696207": {
+        "enabled_time": 1.3683407306671143,
+        "disabled_time": 0.6702084541320801,
+        "impact": 0.6981322765350342
+    },
+    "https://www.haberturk.com/yemek-yapma": {
+        "enabled_time": 1.4800426959991455,
+        "disabled_time": 0.6422836780548096,
+        "impact": 0.8377590179443359
+    },
+    "https://www.haberturk.com/cin-boregi-tarifi-bu-kurtarici-borek-tarifi-misafirlerinizin-favorisi-olacak-cin-boregi-nasil-yapilir-3696399": {
+        "enabled_time": 2.317803144454956,
+        "disabled_time": 0.7669498920440674,
+        "impact": 1.5508532524108887
+    },
+    "https://www.haberturk.com/profesyonel-seflerin-elinden-cikmis-gibi-evde-kolayca-yapabileceginiz-red-velvet-cake-kadife-tatlisi-tarifi-3696160": {
+        "enabled_time": 4.203231573104858,
+        "disabled_time": 0.7898895740509033,
+        "impact": 3.413341999053955
+    },
+    "https://www.haberturk.com/mutfak-robotuna-ihtiyac-duymadan-yapilacak-meyve-kokteylleri-3695008": {
+        "enabled_time": 2.4085590839385986,
+        "disabled_time": 0.7898871898651123,
+        "impact": 1.6186718940734863
+    },
+    "https://www.haberturk.com/geleneksel-lezzetlerin-vazgecilmezlerinden-tum-puf-noktalariyla-salcali-biber-dolmasi-tarifi-3694984": {
+        "enabled_time": 2.909219741821289,
+        "disabled_time": 0.7061100006103516,
+        "impact": 2.2031097412109375
+    },
+    "https://www.haberturk.com/kahvaltida-tuketebileceginiz-alternatifler-arasinda-pratik-ve-kolay-yumurtali-muffin-tarifi-3694641": {
+        "enabled_time": 2.5850865840911865,
+        "disabled_time": 0.7569746971130371,
+        "impact": 1.8281118869781494
+    },
+    "https://hthayat.haberturk.com/astroloji/index/koc": {
+        "enabled_time": 1.2207372188568115,
+        "disabled_time": 0.5375628471374512,
+        "impact": 0.6831743717193604
+    },
+    "https://hthayat.haberturk.com/astroloji/index/boga": {
+        "enabled_time": 6.307133913040161,
+        "disabled_time": 0.5006628036499023,
+        "impact": 5.806471109390259
+    },
+    "https://hthayat.haberturk.com/astroloji/index/ikizler": {
+        "enabled_time": 1.187016487121582,
+        "disabled_time": 0.5046517848968506,
+        "impact": 0.6823647022247314
+    },
+    "https://hthayat.haberturk.com/astroloji/index/yengec": {
+        "enabled_time": 4.936876535415649,
+        "disabled_time": 0.48470377922058105,
+        "impact": 4.452172756195068
+    },
+    "https://hthayat.haberturk.com/astroloji/index/aslan": {
+        "enabled_time": 3.658217430114746,
+        "disabled_time": 0.5026803016662598,
+        "impact": 3.1555371284484863
+    },
+    "https://hthayat.haberturk.com/astroloji/index/basak": {
+        "enabled_time": 1.7652909755706787,
+        "disabled_time": 0.502655029296875,
+        "impact": 1.2626359462738037
+    },
+    "https://hthayat.haberturk.com/astroloji/index/terazi": {
+        "enabled_time": 3.277235984802246,
+        "disabled_time": 0.5090670585632324,
+        "impact": 2.7681689262390137
+    },
+    "https://hthayat.haberturk.com/astroloji/index/akrep": {
+        "enabled_time": 3.6731789112091064,
+        "disabled_time": 0.5056478977203369,
+        "impact": 3.1675310134887695
+    },
+    "https://hthayat.haberturk.com/astroloji/index/yay": {
+        "enabled_time": 5.193113088607788,
+        "disabled_time": 0.5096375942230225,
+        "impact": 4.683475494384766
+    },
+    "https://hthayat.haberturk.com/astroloji/index/oglak": {
+        "enabled_time": 3.7509689331054688,
+        "disabled_time": 0.508638858795166,
+        "impact": 3.2423300743103027
+    },
+    "https://hthayat.haberturk.com/astroloji/index/kova": {
+        "enabled_time": 3.388937473297119,
+        "disabled_time": 0.510634183883667,
+        "impact": 2.878303289413452
+    },
+    "https://hthayat.haberturk.com/astroloji/index/balik": {
+        "enabled_time": 3.299177885055542,
+        "disabled_time": 0.5355682373046875,
+        "impact": 2.7636096477508545
+    },
+    "https://www.showtv.com.tr/": {
+        "enabled_time": 1.4650828838348389,
+        "disabled_time": 0.553520917892456,
+        "impact": 0.9115619659423828
+    },
+    "https://www.showtv.com.tr/programlar/fragman/dunya-guzellerim-tatilde-ikinci-tanitim/119600": {
+        "enabled_time": 3.549508571624756,
+        "disabled_time": 0.6283209323883057,
+        "impact": 2.92118763923645
+    },
+    "https://www.showtv.com.tr/ozel-videolar/847400-bayram-boyunca-rengarenk-bir-show-sizi-bekliyor": {
+        "enabled_time": 4.7366533279418945,
+        "disabled_time": 0.5804486274719238,
+        "impact": 4.156204700469971
+    },
+    "https://www.showtv.com.tr/dizi/tum_bolumler/bahar-sezon-1-bolum-16-izle/119565": {
+        "enabled_time": 1.210763931274414,
+        "disabled_time": 0.5425496101379395,
+        "impact": 0.6682143211364746
+    },
+    "https://www.showtv.com.tr/dizi/tum_bolumler/sandik-kokusu-sezon-1-bolum-26-izle/119590": {
+        "enabled_time": 6.3502418994903564,
+        "disabled_time": 0.5654871463775635,
+        "impact": 5.784754753112793
+    },
+    "https://www.showtv.com.tr/dizi/tum_bolumler/kizilcik-serbeti-sezon-2-bolum-66-izle/119490": {
+        "enabled_time": 8.70472240447998,
+        "disabled_time": 0.6392908096313477,
+        "impact": 8.065431594848633
+    },
+    "https://www.haberturk.com/bilgi/alisveris": {
+        "enabled_time": 1.3055086135864258,
+        "disabled_time": 0.6223375797271729,
+        "impact": 0.6831710338592529
+    },
+    "https://www.haberturk.com/yeni-bim-aktuel-21-haziran-indirimleri-21-haziran-2024-bim-aktuel-katalogu-fiyat-listesi-ile-indirimli-urunler-listesi-aciklandi-3696203": {
+        "enabled_time": 2.021789312362671,
+        "disabled_time": 0.737030029296875,
+        "impact": 1.284759283065796
+    },
+    "https://www.haberturk.com/a101-aktuel-katalogu-20-haziran-2024-bu-hafta-a101-e-hangi-urunler-geliyor-a101-indirimli-urunler-listesi-3696111": {
+        "enabled_time": 1.5319035053253174,
+        "disabled_time": 0.7170827388763428,
+        "impact": 0.8148207664489746
+    },
+    "https://www.haberturk.com/yeni-bim-aktuel-haziran-indirimleri-18-haziran-2024-bim-aktuel-katalogu-fiyat-listesi-ile-indirimli-urunler-3695745": {
+        "enabled_time": 1.9956634044647217,
+        "disabled_time": 0.7320117950439453,
+        "impact": 1.2636516094207764
+    },
+    "https://www.haberturk.com/raflarda-bim-11-14-haziran-katalogu-bim-de-bu-hafta-neler-var-bim-11-14-haziran-aktuel-katalogu-indirimli-urunleri-aciklandi-3694389": {
+        "enabled_time": 2.1931357383728027,
+        "disabled_time": 0.7858984470367432,
+        "impact": 1.4072372913360596
+    },
+    "https://www.haberturk.com/cocuklarini-rehin-aldi-camdan-sarkitti-guncel-haberler-3696445": {
+        "enabled_time": 2.1672041416168213,
+        "disabled_time": 0.7320432662963867,
+        "impact": 1.4351608753204346
+    },
+    "https://www.haberturk.com/4-silahla-kursun-yagmuru-guncel-haberler-3696221": {
+        "enabled_time": 2.1751818656921387,
+        "disabled_time": 1.1888208389282227,
+        "impact": 0.986361026763916
+    },
+    "https://www.haberturk.com/kalp-krizi-degil-yorgun-mermi-cikti-guncel-haberler-3695976": {
+        "enabled_time": 1.920461893081665,
+        "disabled_time": 0.8656845092773438,
+        "impact": 1.0547773838043213
+    },
+    "https://www.haberturk.com/anaokulunun-camini-kirdi-guncel-haberler-3695627": {
+        "enabled_time": 1.945798397064209,
+        "disabled_time": 0.8906183242797852,
+        "impact": 1.0551800727844238
+    },
+    "https://www.haberturk.com/alkollu-ve-ofkeli-guncel-haberler-3695378": {
+        "enabled_time": 1.2845664024353027,
+        "disabled_time": 0.6861658096313477,
+        "impact": 0.5984005928039551
+    },
+    "https://www.haberturk.com/cekcekcilerin-bicakli-kavgasi-guncel-haberler-3695036": {
+        "enabled_time": 1.9707293510437012,
+        "disabled_time": 0.8597018718719482,
+        "impact": 1.111027479171753
+    },
+    "https://www.haberturk.com/hali-cinayetinde-kahreden-goruntu-guncel-haberler-3694684": {
+        "enabled_time": 2.1093597412109375,
+        "disabled_time": 1.1888208389282227,
+        "impact": 0.9205389022827148
+    },
+    "https://www.haberturk.com/kursunlayip-onunde-nobet-tuttu-guncel-haberler-3694352": {
+        "enabled_time": 1.9408109188079834,
+        "disabled_time": 0.8477318286895752,
+        "impact": 1.0930790901184082
+    },
+    "https://www.haberturk.com/zil-caldi-kapiyi-acti-olduruldu-guncel-haberler-3694014": {
+        "enabled_time": 2.544166326522827,
+        "disabled_time": 0.7958712577819824,
+        "impact": 1.7482950687408447
+    },
+    "https://www.haberturk.com/halidaki-vahsetin-sirri-guncel-haberler-3693602": {
+        "enabled_time": 2.037550449371338,
+        "disabled_time": 0.7320427894592285,
+        "impact": 1.3055076599121094
+    },
+    "https://www.haberturk.com/ogretmene-kanli-infaz-guncel-haberler-3693094": {
+        "enabled_time": 2.0355565547943115,
+        "disabled_time": 0.7851159572601318,
+        "impact": 1.2504405975341797
+    },
+    "https://www.haberturk.com/kogus-arkadasligi-cinayetle-bitti-guncel-haberler-3692745": {
+        "enabled_time": 1.1788482666015625,
+        "disabled_time": 0.6921486854553223,
+        "impact": 0.48669958114624023
+    },
+    "https://www.haberturk.com/kiz-meselesi-cinayeti-guncel-haberler-3692397": {
+        "enabled_time": 2.185157060623169,
+        "disabled_time": 0.7485439777374268,
+        "impact": 1.4366130828857422
+    },
+    "https://www.haberturk.com/eski-sevgilisi-oldurdu-guncel-haberler-3691125": {
+        "enabled_time": 2.1213266849517822,
+        "disabled_time": 0.7749266624450684,
+        "impact": 1.3464000225067139
+    },
+    "https://www.haberturk.com/annesi-ile-babasini-oldurdu-guncel-haberler-3690806": {
+        "enabled_time": 2.3357551097869873,
+        "disabled_time": 0.7280535697937012,
+        "impact": 1.6077015399932861
+    },
+    "https://www.haberturk.com/oyun-salonunda-cinayet-guncel-haberler-3690448": {
+        "enabled_time": 2.041006088256836,
+        "disabled_time": 0.7200741767883301,
+        "impact": 1.3209319114685059
+    },
+    "https://www.haberturk.com/eski-damat-katliami-guncel-haberler-3690132": {
+        "enabled_time": 2.098389148712158,
+        "disabled_time": 0.9105644226074219,
+        "impact": 1.1878247261047363
+    },
+    "https://www.haberturk.com/baris-bulusmasinda-savas-cikti-guncel-haberler-3689440": {
+        "enabled_time": 2.357696056365967,
+        "disabled_time": 0.8108329772949219,
+        "impact": 1.546863079071045
+    },
+    "https://www.haberturk.com/cezaevinden-cikti-dehset-sacti-guncel-haberler-3688792": {
+        "enabled_time": 2.348719358444214,
+        "disabled_time": 1.0282478332519531,
+        "impact": 1.3204715251922607
+    },
+    "https://www.haberturk.com/kaza-degil-cinayet-cikti-guncel-haberler-3688483": {
+        "enabled_time": 2.3437340259552,
+        "disabled_time": 0.771934986114502,
+        "impact": 1.5717990398406982
+    },
+    "https://www.haberturk.com/video/gundem/izle/abdnin-ateskes-tasarisina-bmgkdan-onay/846929": {
+        "enabled_time": 2.5950608253479004,
+        "disabled_time": 1.81414794921875,
+        "impact": 0.7809128761291504
+    },
+    "https://www.haberturk.com/video/gundem/izle/israilde-erken-secimde-secmenin-tercihi-nasil-olur-yunus-emre-erdolen-yorumladi/846915": {
+        "enabled_time": 2.326068639755249,
+        "disabled_time": 0.7659516334533691,
+        "impact": 1.5601170063018799
+    },
+    "https://www.haberturk.com/video/gundem/izle/sanliurfada-kopekler-uyutuluyor-mu-mehmet-kasim-gulpinar-acikladi/846913": {
+        "enabled_time": 2.626055955886841,
+        "disabled_time": 0.7479991912841797,
+        "impact": 1.8780567646026611
+    },
+    "https://www.haberturk.com/video/gundem/izle/2024-yksde-yapay-zekali-kopya-sorulari-chatgptye-cozdururken-yakalandi/846911": {
+        "enabled_time": 2.77258563041687,
+        "disabled_time": 1.6795084476470947,
+        "impact": 1.0930771827697754
+    },
+    "https://www.haberturk.com/video/gundem/izle/hacamat-ve-ozon-her-derde-sifa-mi/846910": {
+        "enabled_time": 2.5531718730926514,
+        "disabled_time": 1.613685131072998,
+        "impact": 0.9394867420196533
+    },
+    "https://www.haberturk.com/video/gundem/izle/kremlin-sonuclar-cogunlugun-avrupa-ve-ukrayna-yanlisi-olacagini-gosteriyor/846901": {
+        "enabled_time": 2.685819387435913,
+        "disabled_time": 0.4697446823120117,
+        "impact": 2.2160747051239014
+    },
+    "https://www.haberturk.com/video/gundem/izle/erdogan-ve-ozel-ne-gorusecek/846900": {
+        "enabled_time": 0.3979361057281494,
+        "disabled_time": 0.30219364166259766,
+        "impact": 0.09574246406555176
+    },
+    "https://www.haberturk.com/video/gundem/izle/iyi-parti-lideri-dervisoglundan-basibos-sokak-kopekleri-aciklamasi/845300": {
+        "enabled_time": 2.497321367263794,
+        "disabled_time": 0.7130939960479736,
+        "impact": 1.7842273712158203
+    },
+    "https://www.haberturk.com/video/gundem/izle/son-dakika-israil-yine-cadir-kampi-vurdu-21-kisi-oldu/845296": {
+        "enabled_time": 2.407561779022217,
+        "disabled_time": 1.7872209548950195,
+        "impact": 0.6203408241271973
+    },
+    "https://www.haberturk.com/video/programlar/izle/disisleri-bakani-hakan-fidan-abdnin-destegi-olmasa-soykirimin-surmesi-mumkun-degil/845293": {
+        "enabled_time": 2.453439474105835,
+        "disabled_time": 0.8048484325408936,
+        "impact": 1.6485910415649414
+    },
+    "https://www.haberturk.com/video/gundem/izle/hazine-ve-maliye-bakani-mehmet-simsek-asgari-kurumlar-vergisi-icin-calisma-yapiliyor/845290": {
+        "enabled_time": 2.441471815109253,
+        "disabled_time": 0.7380268573760986,
+        "impact": 1.7034449577331543
+    },
+    "https://www.haberturk.com/video/gundem/izle/kilicdaroglundan-yeniden-aday-olacak-misiniz-sorusuna-yanit/845285": {
+        "enabled_time": 2.284891128540039,
+        "disabled_time": 0.7884430885314941,
+        "impact": 1.496448040008545
+    },
+    "https://www.haberturk.com/video/gundem/izle/bahceli-gazzedeki-tablo-kahredici-boyuttadir/845274": {
+        "enabled_time": 2.469395399093628,
+        "disabled_time": 1.1808438301086426,
+        "impact": 1.2885515689849854
+    },
+    "https://www.haberturk.com/video/gundem/izle/son-durum-parcalanmis-halde-konteynerde-bulunan-cesedin-sirri-ne/845266": {
+        "enabled_time": 2.4291532039642334,
+        "disabled_time": 1.137221097946167,
+        "impact": 1.2919321060180664
+    },
+    "https://www.haberturk.com/video/gundem/izle/israil-refahta-cadir-kenti-bombaladi-en-az-45-olu/845262": {
+        "enabled_time": 1.6396164894104004,
+        "disabled_time": 0.7041172981262207,
+        "impact": 0.9354991912841797
+    },
+    "https://www.haberturk.com/video/gundem/izle/sahipsiz-kopek-sorunu-nasil-cozulecek-aykut-turel-anlatti/845242": {
+        "enabled_time": 1.9388105869293213,
+        "disabled_time": 1.0212681293487549,
+        "impact": 0.9175424575805664
+    },
+    "https://www.haberturk.com/video/gundem/izle/galatasaraydan-buyuk-kutlama-mehmet-ayan-anlatti/845234": {
+        "enabled_time": 1.1319727897644043,
+        "disabled_time": 0.7011263370513916,
+        "impact": 0.4308464527130127
+    },
+    "https://www.haberturk.com/video/programlar/izle/27-mayis-darbesi-nasil-oldu/845202": {
+        "enabled_time": 2.610020875930786,
+        "disabled_time": 1.4461350440979004,
+        "impact": 1.1638858318328857
+    },
+    "https://www.haberturk.com/video/programlar/izle/ucus-turbulansi-nedir-ve-neden-olur-prof-dr-mikdat-kadioglu-yanitladi/845197": {
+        "enabled_time": 1.970731258392334,
+        "disabled_time": 0.793877124786377,
+        "impact": 1.176854133605957
+    },
+    "https://www.haberturk.com/video/programlar/izle/gayrimenkul-fonu-fiyati-dusurur-mu-dr-nihat-sen-ve-ozan-kolcuoglu-yanitladi/845195": {
+        "enabled_time": 1.2426784038543701,
+        "disabled_time": 0.697136640548706,
+        "impact": 0.5455417633056641
+    },
+    "https://www.bloomberght.com/": {
+        "enabled_time": 2.2449982166290283,
+        "disabled_time": 0.802851676940918,
+        "impact": 1.4421465396881104
+    },
+    "https://www.bloomberght.com/ab-de-yedi-ulke-butce-disiplin-surecine-girecek-2355010": {
+        "enabled_time": 1.9358222484588623,
+        "disabled_time": 0.5869660377502441,
+        "impact": 1.3488562107086182
+    },
+    "https://www.bloomberght.com/suudiler-borclanmada-cin-i-tahtindan-indirdi-2355008": {
+        "enabled_time": 2.2523715496063232,
+        "disabled_time": 0.5385594367980957,
+        "impact": 1.7138121128082275
+    },
+    "https://www.bloomberght.com/yazilim-sektoru-ihracatta-5-milyar-dolar-hedefliyor-2355007": {
+        "enabled_time": 2.204106330871582,
+        "disabled_time": 0.5884270668029785,
+        "impact": 1.6156792640686035
+    },
+    "https://www.bloomberght.com/wef-temiz-enerji-donusumu-yavas-ilerliyor-2355006": {
+        "enabled_time": 1.9856903553009033,
+        "disabled_time": 1.3226728439331055,
+        "impact": 0.6630175113677979
+    },
+    "https://www.bloomberght.com/barclays-ten-turk-lirasi-analizi-2355004": {
+        "enabled_time": 2.3138132095336914,
+        "disabled_time": 0.5694780349731445,
+        "impact": 1.7443351745605469
+    },
+    "https://hthayat.haberturk.com/bulasiklari-makineye-koymadan-once-elde-yikamak-dogru-mu-1077635": {
+        "enabled_time": 1.2416791915893555,
+        "disabled_time": 0.4916856288909912,
+        "impact": 0.7499935626983643
+    },
+    "https://hthayat.haberturk.com/insan-gozu-neden-siyah-olamaz-1076603": {
+        "enabled_time": 1.2616262435913086,
+        "disabled_time": 0.529595136642456,
+        "impact": 0.7320311069488525
+    },
+    "https://hthayat.haberturk.com/kavun-cekirdegi-sutu-nasil-yapilir-1077406": {
+        "enabled_time": 1.2047789096832275,
+        "disabled_time": 0.4887058734893799,
+        "impact": 0.7160730361938477
+    },
+    "https://hthayat.haberturk.com/yasam/guncel/haber/1052907-deniz-ve-kumun-15-faydasi": {
+        "enabled_time": 1.3245625495910645,
+        "disabled_time": 1.9928953647613525,
+        "impact": -0.6683328151702881
+    },
+    "https://hthayat.haberturk.com/saglik/psikoloji/haber/1024078-sabahlari-nasil-daha-enerjik-olunur": {
+        "enabled_time": 1.2042019367218018,
+        "disabled_time": 0.48969054222106934,
+        "impact": 0.7145113945007324
+    },
+    "https://hthayat.haberturk.com/yasam/guncel/haber/1023737-eski-istanbulun-bayram-eglenceleri": {
+        "enabled_time": 1.23868727684021,
+        "disabled_time": 0.4797389507293701,
+        "impact": 0.7589483261108398
+    },
+    "https://hthayat.haberturk.com/yasam/haber/1023520-bayram-klasikleri": {
+        "enabled_time": 1.1895604133605957,
+        "disabled_time": 0.4876976013183594,
+        "impact": 0.7018628120422363
+    },
+    "https://hthayat.haberturk.com/saglik/beslenme/haber/1022007-asla-mikrodalgaya-koymamaniz-gereken-5-sey": {
+        "enabled_time": 1.159897804260254,
+        "disabled_time": 0.4807147979736328,
+        "impact": 0.6791830062866211
+    },
+    "https://hthayat.haberturk.com/dogum-haritamizda-bos-evler-ne-anlama-geliyor-1083449": {
+        "enabled_time": 2.667865753173828,
+        "disabled_time": 0.5126287937164307,
+        "impact": 2.1552369594573975
+    },
+    "https://htkulup.haberturk.com/": {
+        "enabled_time": 1.1768529415130615,
+        "disabled_time": 0.5485329627990723,
+        "impact": 0.6283199787139893
+    },
+    "https://htkulup.haberturk.com/tatil/haber/3696485-peros-hatirasi": {
+        "enabled_time": 2.63395619392395,
+        "disabled_time": 0.47871971130371094,
+        "impact": 2.1552364826202393
+    },
+    "https://htkulup.haberturk.com/tatil/haber/3696301-kimi-sehri-bekledi": {
+        "enabled_time": 3.0664591789245605,
+        "disabled_time": 0.4886932373046875,
+        "impact": 2.577765941619873
+    },
+    "https://htkulup.haberturk.com/tatil/haber/3696283-ailece-bayram-sevinci": {
+        "enabled_time": 2.1227853298187256,
+        "disabled_time": 0.49866652488708496,
+        "impact": 1.6241188049316406
+    },
+    "https://htkulup.haberturk.com/moda/haber/3696045-tatilde-modellik-yapti": {
+        "enabled_time": 1.651582956314087,
+        "disabled_time": 0.5006623268127441,
+        "impact": 1.1509206295013428
+    },
+    "https://htkulup.haberturk.com/tatil/haber/3696051-portofino-dan-cesme-ye-bayram-tatilcileri": {
+        "enabled_time": 2.1392791271209717,
+        "disabled_time": 0.45677852630615234,
+        "impact": 1.6825006008148193
+    },
+    "https://htkulup.haberturk.com/guncel/haber/3696040-yeni-yasa-italya-da-kutlama": {
+        "enabled_time": 1.3703348636627197,
+        "disabled_time": 0.48968958854675293,
+        "impact": 0.8806452751159668
+    },
+    "https://htkulup.haberturk.com/guncel/haber/3695846-bodrum-tatilcileri": {
+        "enabled_time": 1.3553752899169922,
+        "disabled_time": 0.5315802097320557,
+        "impact": 0.8237950801849365
+    },
+    "https://htkulup.haberturk.com/guncel/haber/3695834-mutlu-bayramlar": {
+        "enabled_time": 1.4541118144989014,
+        "disabled_time": 0.4777226448059082,
+        "impact": 0.9763891696929932
+    },
+    "https://www.haberturk.com/yerel-haberler": {
+        "enabled_time": 2.004183769226074,
+        "disabled_time": 0.7739312648773193,
+        "impact": 1.2302525043487549
+    },
+    "https://www.haberturk.com/kocaeli-haberleri/34923309-kocaelide-otomobilin-carptigi-cocuk-yaralandi": {
+        "enabled_time": 2.1013803482055664,
+        "disabled_time": 0.7539849281311035,
+        "impact": 1.347395420074463
+    },
+    "https://www.haberturk.com/kocaeli-haberleri/34923300-kocaelide-tartistigi-kisiyi-bicakla-yaralayan-supheli-gozaltina-alindi": {
+        "enabled_time": 1.517942190170288,
+        "disabled_time": 0.5505270957946777,
+        "impact": 0.9674150943756104
+    },
+    "https://www.haberturk.com/aydin-haberleri/34923297-koskte-direge-carpan-otomobilin-surucusu-yaralandi": {
+        "enabled_time": 2.2110867500305176,
+        "disabled_time": 1.2017858028411865,
+        "impact": 1.009300947189331
+    },
+    "https://www.haberturk.com/ankara-haberleri/34923295-ordunun-unye-ilcesindeki-bir-arazi-tersane-yapimi-icin-tahsis-edilecek": {
+        "enabled_time": 2.0046379566192627,
+        "disabled_time": 0.852719783782959,
+        "impact": 1.1519181728363037
+    },
+    "https://www.haberturk.com/mersin-haberleri/108492268-kestel-dagi-milli-parkinda-kaybolup-kanyonda-mahsur-kalan-5-kisiyi-ekipler-kurtardi": {
+        "enabled_time": 2.2237026691436768,
+        "disabled_time": 1.357421875,
+        "impact": 0.8662807941436768
+    },
+    "https://www.haberturk.com/mersin-haberleri/34923169-mersinde-kestel-kanyonunda-kaybolan-5-kisi-bulundu": {
+        "enabled_time": 2.1059608459472656,
+        "disabled_time": 1.4460413455963135,
+        "impact": 0.6599195003509521
+    },
+    "https://www.haberturk.com/diyarbakir-haberleri/108492040-diyarbakirda-yabanci-uyruklu-iki-grup-arasinda-silahli-kavga-4-yarali": {
+        "enabled_time": 2.8093724250793457,
+        "disabled_time": 0.7869150638580322,
+        "impact": 2.0224573612213135
+    },
+    "https://www.haberturk.com/kutahya-haberleri/108491962-kutahyada-2-otomobil-carpisti-1-olu-4-yarali": {
+        "enabled_time": 2.2175893783569336,
+        "disabled_time": 0.7887253761291504,
+        "impact": 1.4288640022277832
+    },
+    "https://www.haberturk.com/zonguldak-haberleri/108491863-cipin-alkollu-surucusu-motosikletliye-carpip-kacti": {
+        "enabled_time": 2.12078595161438,
+        "disabled_time": 0.7764666080474854,
+        "impact": 1.3443193435668945
+    },
+    "https://www.haberturk.com/erzurum-haberleri/34922909-erzurumda-bir-kadin-kkka-hastaligi-teshisiyle-tedavi-goruyor": {
+        "enabled_time": 2.3659629821777344,
+        "disabled_time": 1.3548789024353027,
+        "impact": 1.0110840797424316
+    },
+    "https://www.haberturk.com/istanbul-sile-de-plajda-at-dehseti-son-dakika-haberleri-3696370": {
+        "enabled_time": 2.235785722732544,
+        "disabled_time": 0.8329448699951172,
+        "impact": 1.4028408527374268
+    },
+    "https://www.haberturk.com/3-cocugundan-2-sinin-kendisinden-olmadigini-ogrendi-bir-istekte-bulundu-3696318": {
+        "enabled_time": 1.3858816623687744,
+        "disabled_time": 0.7425909042358398,
+        "impact": 0.6432907581329346
+    },
+    "https://www.haberturk.com/aliya-nur-15-yasindaydi-88-yasindaki-surucunun-olumlu-kazasi-3696364": {
+        "enabled_time": 2.1077215671539307,
+        "disabled_time": 0.8557114601135254,
+        "impact": 1.2520101070404053
+    },
+    "https://www.haberturk.com/ilce-jandarma-komutani-esini-oldurdugu-suphesiyle-tutuklandi-rize-haberleri-3696306": {
+        "enabled_time": 2.055703639984131,
+        "disabled_time": 0.8946080207824707,
+        "impact": 1.1610956192016602
+    },
+    "https://www.haberturk.com/siirt-te-tarlasina-su-kuyusu-aciyordu-toprak-altinda-kalip-oldu-3696468": {
+        "enabled_time": 2.027432680130005,
+        "disabled_time": 0.8313517570495605,
+        "impact": 1.1960809230804443
+    },
+    "https://www.haberturk.com/9-yasindaki-cocugun-kahreden-olumu-guncel-haberler-3696465": {
+        "enabled_time": 2.104262351989746,
+        "disabled_time": 0.7965893745422363,
+        "impact": 1.3076729774475098
+    },
+    "https://www.haberturk.com/basaksehir-de-cocuklarini-tehdit-eden-vicdansiz-baba-tutuklandi-3696446": {
+        "enabled_time": 2.1267807483673096,
+        "disabled_time": 0.9414823055267334,
+        "impact": 1.1852984428405762
+    },
+    "https://www.haberturk.com/marmarayda-tekmeli-yumruklu-kavga-3696444": {
+        "enabled_time": 2.1288013458251953,
+        "disabled_time": 0.7769291400909424,
+        "impact": 1.351872205734253
+    },
+    "https://www.haberturk.com/bayram-sonrasi-hava-nasil-olacak-3696441": {
+        "enabled_time": 2.0694668292999268,
+        "disabled_time": 0.7460041046142578,
+        "impact": 1.323462724685669
+    },
+    "https://www.haberturk.com/cerez-politikasi": {
+        "enabled_time": 1.1369602680206299,
+        "disabled_time": 0.6259043216705322,
+        "impact": 0.5110559463500977
+    },
+    "https://www.haberturk.com/aydinlatma-metni": {
+        "enabled_time": 1.552419900894165,
+        "disabled_time": 0.5952877998352051,
+        "impact": 0.95713210105896
+    },
+    "https://www.haberturk.com/son-dakika-haberleri": {
+        "enabled_time": 1.2854514122009277,
+        "disabled_time": 0.6667335033416748,
+        "impact": 0.6187179088592529
+    },
+    "https://www.haberturk.com/ekonomi/sosyal-guvenlik": {
+        "enabled_time": 2.0426528453826904,
+        "disabled_time": 0.863067626953125,
+        "impact": 1.1795852184295654
+    },
+    "https://www.haberturk.com/namaz-vakitleri": {
+        "enabled_time": 1.8955144882202148,
+        "disabled_time": 0.7482964992523193,
+        "impact": 1.1472179889678955
+    },
+    "https://www.haberturk.com/istanbul-cuma-namazi-vakti": {
+        "enabled_time": 1.8765971660614014,
+        "disabled_time": 1.1899311542510986,
+        "impact": 0.6866660118103027
+    },
+    "https://www.haberturk.com/nobetci-eczaneler": {
+        "enabled_time": 1.2861049175262451,
+        "disabled_time": 0.7745490074157715,
+        "impact": 0.5115559101104736
+    },
+    "https://www.haberturk.com/istiklal-marsi-sozleri-10-kita-mehmet-akif-ersoy-un-yazdigi-istiklal-marsi-10-kitasi-okunusu-3373254": {
+        "enabled_time": 2.2744863033294678,
+        "disabled_time": 0.8583934307098389,
+        "impact": 1.416092872619629
+    },
+    "https://www.haberturk.com/e-okul-veli-bilgilendirme-sistemi": {
+        "enabled_time": 1.4020683765411377,
+        "disabled_time": 0.6197679042816162,
+        "impact": 0.7823004722595215
+    },
+    "https://www.haberturk.com/e-devlet-giris": {
+        "enabled_time": 2.034661293029785,
+        "disabled_time": 0.7197616100311279,
+        "impact": 1.3148996829986572
+    },
+    "https://hthayat.haberturk.com/astroloji/genel-burc-yorumlari": {
+        "enabled_time": 2.493715763092041,
+        "disabled_time": 0.5045852661132812,
+        "impact": 1.9891304969787598
+    },
+    "https://www.haberturk.com/son-depremler": {
+        "enabled_time": 1.8616647720336914,
+        "disabled_time": 1.1267263889312744,
+        "impact": 0.734938383102417
+    },
+    "https://www.haberturk.com/yol-durumu/istanbul": {
+        "enabled_time": 5.255392789840698,
+        "disabled_time": 2.4141664505004883,
+        "impact": 2.84122633934021
+    },
+    "https://www.haberturk.com/sinema-rehberi": {
+        "enabled_time": 1.5050830841064453,
+        "disabled_time": 0.6178689002990723,
+        "impact": 0.887214183807373
+    },
+    "https://www.haberturk.com/tv-rehberi": {
+        "enabled_time": 2.353616714477539,
+        "disabled_time": 0.8887073993682861,
+        "impact": 1.464909315109253
+    },
+    "https://www.haberturk.com/instagram-dondurma": {
+        "enabled_time": 1.214526653289795,
+        "disabled_time": 0.6183474063873291,
+        "impact": 0.5961792469024658
+    },
+    "https://www.haberturk.com/instagram-silme": {
+        "enabled_time": 2.3385438919067383,
+        "disabled_time": 0.6368069648742676,
+        "impact": 1.7017369270324707
+    },
+    "https://www.haberturk.com/ayetel-kursi-okunusu-ve-anlami-ayetel-kursi-duasi-turkce-anlami-meali-diyanet-tefsiri-arapca-okunusu-yazilisi-ve-fazileti-3305225": {
+        "enabled_time": 2.272843837738037,
+        "disabled_time": 0.7902183532714844,
+        "impact": 1.4826254844665527
+    },
+    "https://www.haberturk.com/saatlerin-anlami-2022-tek-ters-ayni-ve-cift-saatlerin-anlami-ile-yorumu-ayni-denk-gelen-ve-yeni-saatlerin-anlami-nedir-3364346": {
+        "enabled_time": 2.568253517150879,
+        "disabled_time": 1.0310637950897217,
+        "impact": 1.5371897220611572
+    },
+    "https://www.haberturk.com/sevgiliye-sozler-sevgililer-icin-anlamli-guzel-romantik-iltifatli-ve-en-iyi-sozler-3665595": {
+        "enabled_time": 2.5294015407562256,
+        "disabled_time": 0.956289529800415,
+        "impact": 1.5731120109558105
+    },
+    "https://www.haberturk.com/en-guzel-ve-romantik-gunaydin-mesajlari-2022-anlamli-duygusal-ask-dolu-sevgiliye-gunaydin-askim-mesaji-ve-kisa-sabah-sozleri-etkileyici-gunaydin-mesaji-3316372": {
+        "enabled_time": 2.3300042152404785,
+        "disabled_time": 0.8108327388763428,
+        "impact": 1.5191714763641357
+    },
+    "https://www.haberturk.com/sans-oyunlari/milli-piyango": {
+        "enabled_time": 1.9627089500427246,
+        "disabled_time": 0.721386194229126,
+        "impact": 1.2413227558135986
+    },
+    "https://www.haberturk.com/sans-oyunlari/sayisal-loto": {
+        "enabled_time": 1.228485107421875,
+        "disabled_time": 0.6233339309692383,
+        "impact": 0.6051511764526367
+    },
+    "https://www.haberturk.com/ekonomi/altin/1858-gram-altin": {
+        "enabled_time": 1.7589778900146484,
+        "disabled_time": 0.6614651679992676,
+        "impact": 1.0975127220153809
+    },
+    "https://www.haberturk.com/ekonomi/altin/1861-ceyrek-altin": {
+        "enabled_time": 1.2116880416870117,
+        "disabled_time": 0.6309363842010498,
+        "impact": 0.5807516574859619
+    },
+    "https://www.haberturk.com/ekonomi/altin/1864-yarim-altin": {
+        "enabled_time": 1.5557398796081543,
+        "disabled_time": 0.690025806427002,
+        "impact": 0.8657140731811523
+    },
+    "https://www.haberturk.com/ekonomi/altin/1870-ata-altin": {
+        "enabled_time": 2.4239466190338135,
+        "disabled_time": 0.6751940250396729,
+        "impact": 1.7487525939941406
+    },
+    "https://www.haberturk.com/ekonomi/altin/709-cumhuriyet-altini": {
+        "enabled_time": 2.498960018157959,
+        "disabled_time": 1.385373592376709,
+        "impact": 1.11358642578125
+    },
+    "https://www.haberturk.com/ekonomi/altin/1879-22-ayar-bilezik-grami": {
+        "enabled_time": 1.3288593292236328,
+        "disabled_time": 0.6886341571807861,
+        "impact": 0.6402251720428467
+    },
+    "https://www.haberturk.com/ekonomi/1-dolar-ne-kadar": {
+        "enabled_time": 2.2763512134552,
+        "disabled_time": 0.6573164463043213,
+        "impact": 1.619034767150879
+    },
+    "https://www.haberturk.com/ekonomi/1-euro-ne-kadar": {
+        "enabled_time": 10.28475046157837,
+        "disabled_time": 0.5881109237670898,
+        "impact": 9.69663953781128
+    },
+    "https://www.haberturk.com/spor/iddaa": {
+        "enabled_time": 1.2643961906433105,
+        "disabled_time": 0.6440703868865967,
+        "impact": 0.6203258037567139
+    },
+    "https://www.haberturk.com/spor/iddaa/puandurumu/1-spor-toto-super-lig": {
+        "enabled_time": 2.2575571537017822,
+        "disabled_time": 0.748685359954834,
+        "impact": 1.5088717937469482
+    },
+    "https://www.haberturk.com/ne-demek": {
+        "enabled_time": 6.894900321960449,
+        "disabled_time": 2.5133378505706787,
+        "impact": 4.3815624713897705
+    },
+    "https://www.haberturk.com/universite-taban-puanlari": {
+        "enabled_time": 2.507469892501831,
+        "disabled_time": 1.2284996509552002,
+        "impact": 1.2789702415466309
+    },
+    "https://www.haberturk.com/ruya-tabirleri": {
+        "enabled_time": 8.644493818283081,
+        "disabled_time": 1.6053647994995117,
+        "impact": 7.039129018783569
+    },
+    "https://www.haberturk.com/gundem/egitim/tarih": {
+        "enabled_time": 2.1922478675842285,
+        "disabled_time": 0.7589688301086426,
+        "impact": 1.433279037475586
+    },
+    "https://www.haberturk.com/islam-ansiklopedisi": {
+        "enabled_time": 10.570576190948486,
+        "disabled_time": 0.5932769775390625,
+        "impact": 9.977299213409424
+    },
+    "https://www.haberturk.com/tubitak-ansiklopedi": {
+        "enabled_time": 1.8222594261169434,
+        "disabled_time": 1.0079872608184814,
+        "impact": 0.8142721652984619
+    },
+    "https://www.haberturk.com/kac-kalori": {
+        "enabled_time": 4.3160624504089355,
+        "disabled_time": 14.92762804031372,
+        "impact": -10.611565589904785
+    },
+    "https://www.haberturk.com/es-anlamli-kelimeler-sozlugu": {
+        "enabled_time": 2.316100597381592,
+        "disabled_time": 9.709811210632324,
+        "impact": -7.393710613250732
+    },
+    "https://www.haberturk.com/tdk-nasil-yazilir": {
+        "enabled_time": 3.820070266723633,
+        "disabled_time": 2.3322770595550537,
+        "impact": 1.487793207168579
+    },
+    "https://www.haberturk.com/en-guzel-sozler-ve-alintilar-ese-sevgiliye-gonderilecek-ask-temali-kisa-uzun-anlamli-ve-resimli-guzel-sozler-ile-duygusal-mesajlar-3531087": {
+        "enabled_time": 9.291831016540527,
+        "disabled_time": 0.6323094367980957,
+        "impact": 8.659521579742432
+    },
+    "https://www.haberturk.com/metrobus-duraklari-isimleri-istanbul-iett-metrobus-hatti-duraklari-sefer-saatleri-ve-durak-haritasi-3526122": {
+        "enabled_time": 2.389436721801758,
+        "disabled_time": 0.8133831024169922,
+        "impact": 1.5760536193847656
+    },
+    "https://www.haberturk.com/marmaray-duraklari-isimleri-2023-istanbul-halkali-gebze-arasi-marmaray-haritasi-sureleri-sefer-saatleri-duraklar-arasi-mesafe-ve-ucretleri-3558767": {
+        "enabled_time": 2.1272871494293213,
+        "disabled_time": 8.616936206817627,
+        "impact": -6.489649057388306
+    },
+    "https://www.haberturk.com/erkek-isimleri-en-guzel-modern-asil-dini-duyulmamis-erkek-bebek-isimleri-ve-anlamlari-3563654": {
+        "enabled_time": 2.700076103210449,
+        "disabled_time": 1.1578388214111328,
+        "impact": 1.5422372817993164
+    },
+    "https://www.haberturk.com/kiz-isimleri-en-guzel-modern-farkli-dini-turkce-ingilizce-populer-kiz-bebek-isimleri-ve-anlamlari-3563627": {
+        "enabled_time": 2.3856678009033203,
+        "disabled_time": 1.0580847263336182,
+        "impact": 1.3275830745697021
+    },
+    "https://www.haberturk.com/atasozleri-ve-anlamlari": {
+        "enabled_time": 4.221634149551392,
+        "disabled_time": 1.4075331687927246,
+        "impact": 2.814100980758667
+    },
+    "https://www.haberturk.com/deyimler-sozlugu": {
+        "enabled_time": 5.4880242347717285,
+        "disabled_time": 4.8266589641571045,
+        "impact": 0.661365270614624
+    },
+    "https://www.haberturk.com/cin-takvimi-cinsiyet-hesaplama": {
+        "enabled_time": 1.9869835376739502,
+        "disabled_time": 1.1389403343200684,
+        "impact": 0.8480432033538818
+    },
+    "https://www.haberturk.com/iett-sefer-saatleri-ve-otobus-duraklari": {
+        "enabled_time": 2.2540194988250732,
+        "disabled_time": 0.8118343353271484,
+        "impact": 1.4421851634979248
+    },
+    "https://www.haberturk.com/gebelik-hesaplama": {
+        "enabled_time": 2.0416202545166016,
+        "disabled_time": 0.7273368835449219,
+        "impact": 1.3142833709716797
+    },
+    "https://www.haberturk.com/yukselen-burc-hesaplama": {
+        "enabled_time": 2.5634939670562744,
+        "disabled_time": 1.2861769199371338,
+        "impact": 1.2773170471191406
+    },
+    "https://www.haberturk.com/yuzde-hesaplama": {
+        "enabled_time": 1.2324700355529785,
+        "disabled_time": 0.5646579265594482,
+        "impact": 0.6678121089935303
+    },
+    "https://www.haberturk.com/gecmis-doviz-kurlari/": {
+        "enabled_time": 2.564741611480713,
+        "disabled_time": 0.7536792755126953,
+        "impact": 1.8110623359680176
+    },
+    "https://www.haberturk.com/instagram-dondurma-nasil-yapilir-instagram-gecici-ve-kalici-hesap-dondurma-linki-2024-3671526": {
+        "enabled_time": 2.3504762649536133,
+        "disabled_time": 0.8166089057922363,
+        "impact": 1.533867359161377
+    },
+    "https://www.haberturk.com/instagram-hesap-silme-nasil-yapilir-instagram-kalici-ve-gecici-hesap-silme-linki-2024-3671557": {
+        "enabled_time": 1.4856550693511963,
+        "disabled_time": 0.7910051345825195,
+        "impact": 0.6946499347686768
+    },
+    "https://www.haberturk.com/2024-yilinda-kac-gun-tatil-olacak-2024-yili-resmi-tatil-gunleri-3645225": {
+        "enabled_time": 2.347656011581421,
+        "disabled_time": 0.8545122146606445,
+        "impact": 1.4931437969207764
+    }
+}
